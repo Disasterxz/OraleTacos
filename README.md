@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-3.1-f2c230?style=flat-square" alt="Versión 3.1">
+  <img src="https://img.shields.io/badge/versión-3.2-f2c230?style=flat-square" alt="Versión 3.2">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
@@ -1016,7 +1016,7 @@ Efectos: nieve en Navidad, corazones flotando en Amor y Amistad, pétalos de cem
 
 | Evento | ¿Qué pasa? |
 |---|---|
-| 🦹 **Asalto** | A cualquier hora puede llegar un ratero. Te puede quitar una parte del dinero o todo, a veces solo pide un taco para perdonarte… ¡y en la taquería se puede robar el trompo completo! Puedes llamar a la policía: a veces llegan a tiempo y a veces no. |
+| 🦹 **Asalto** | A cualquier hora puede llegar un ratero. Te puede quitar una parte del dinero o todo, a veces solo pide un taco para perdonarte… ¡y en la taquería se puede robar el trompo completo! Puedes **entregar**, **negarte** o **llamar a la policía**. Si te niegas, o la policía no llega a tiempo, el ratero se lleva el trompo de pastor y ese día ya no puedes vender pastor. |
 | 💵 **Billete falso** | Algunos clientes pagan con billetes de $500 o $1,000. Revísalos con el **plumón detector** (con animación de destapar y rayar): si la marca queda negra, es falso. el estafador puede arrebatarte el billete y huir, o puedes llamar a la policía para que se lo lleve y te den una recompensa. Si lo aceptas sin revisar y era falso, pierdes el cambio que diste. |
 | 🧔 **Don Chencho** | Un señor sin hogar que te pide un taquito. Si le ayudas, se gana tu confianza y algún día regresa a pagarte con lo que juntó. Si se lo niegas muchas veces, deja de pedirte, pero se queda frente a tu puesto con su cartón de "Tengo hambre"... Su historial se reinicia a los **2 días reales**. Tu **indicador de bondad** se ve en la pantalla de inicio. |
 | 🧾 **Cobrador de renta** | Llega cada noche antes de cerrar y cobra la renta según lo que vendiste: de $30 a $150, nunca más de la mitad del día. |
@@ -1135,6 +1135,10 @@ Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de músi
 ---
 
 ## 📝 Novedades
+
+**v3.2**
+- 💸 El dinero se actualiza al instante al pagar la renta, dar cambio o sufrir un asalto.
+- 🦹 Si te niegas al asalto, o la policía llega tarde, ¡el ratero se roba el trompo de pastor!
 
 **v3.1**
 - 💲 Precios reales: el taco sencillo cuesta $8 y los más preparados $9 a $11; cada puesto tiene su precio.
