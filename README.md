@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-3.2-f2c230?style=flat-square" alt="Versión 3.2">
+  <img src="https://img.shields.io/badge/versión-3.3-f2c230?style=flat-square" alt="Versión 3.3">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
@@ -58,14 +58,14 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 
 | | |
 |---|---|
-| 🏪 **23 puestos** | Taquería, tamalería, tortería, mariscos, nevería, raspados, dulcería, dulces de feria y muchos más. |
-| 📖 **447 recetas** | Desde un taco de pastor en tortilla de colores hasta una torta cubana, pan de muerto o ponche navideño. |
+| 🏪 **25 puestos** | Taquería, tamalería, tortería, mariscos, nevería, raspados, dulcería, dulces de feria y muchos más. |
+| 📖 **465 recetas** | Desde un taco de pastor en tortilla de colores hasta una torta cubana, pan de muerto o ponche navideño. |
 | 🧾 **Comanda guiada** | Cada pedido viene con su lista de ingredientes. las flechas te dicen qué falta y la pestaña cambia sola al siguiente paso. |
 | 🗣️ **Clientes que hablan** | Más de 150 frases bien mexicanas: amables, apurados, exigentes, bromistas, norteños, chilangos, tiernos, fresas y tímidos. |
 | 🕗 **Un día completo** | el cielo pasa de la mañana al atardecer y a la noche. A las 11 PM se baja la cortina. |
 | 💰 **Economía real** | Precios de la calle (taco a $8). Ganas por ventas y propinas, pierdes si tiras o te equivocas, y cada noche pagas la renta del local. |
 | 🛒 **Tienda** | Compra puestos, ingredientes, nuevos clientes y ropa para tu clientela. |
-| 🎯 **690 niveles** | 30 niveles por puesto en fácil, intermedio y difícil. ¡Complétalos en las tres dificultades para **platinarlos** y ganar un bono! |
+| 🎯 **750 niveles** | 30 niveles por puesto en fácil, intermedio y difícil. ¡Complétalos en las tres dificultades para **platinarlos** y ganar un bono! |
 | 📅 **Calendario mexicano** | el juego cambia según la fecha: Reyes, Amor y Amistad, Primavera, Día del Niño, Día de las Madres, Día del Maestro, Fiestas Patrias, Halloween, Día de Muertos, Revolución y Navidad, con decoración, música, personajes y platillos de temporada. |
 | 🚨 **Eventos sorpresa** | Asaltos (¡hasta se pueden robar el trompo!), billetes falsos que revisas con el plumón detector y patrullas que llegan a ayudarte. |
 | 🧔 **Don Chencho** | Un señor sin hogar que te pide un taquito. Si le ayudas, un día te lo paga. Tu **bondad** queda marcada. |
@@ -77,18 +77,18 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 
 ---
 
-## 🗺️ Los 23 puestos
+## 🗺️ Los 25 puestos
 
 Cada puesto tiene su propio escenario, utilería animada, barra, clientela y recetas. Toca un puesto para ver todo lo que vende.
 
 | Categoría | Puestos |
 |---|---|
-| 🍽️ Comida | 🌮 Taquería · 🌽 Tamalería · 🍲 Pozolería · 🥟 Antojitos · 🥖 Tortería · 🥩 Carnitas · 🍜 Birriería · 🍗 al Carbón · 🌭 Jochos y Burgers · 🦐 Mariscos |
+| 🍽️ Comida | 🌮 Taquería · 🌽 Tamalería · 🍲 Pozolería · 🥟 Antojitos · 🥖 Tortería · 🥩 Carnitas · 🍜 Birriería · 🍗 al Carbón · 🌭 Jochos y Burgers · 🦐 Mariscos · ⚖️ Tortillería |
 | 🍿 Botanas | 🌽 Elotero · 🥨 Botanero · 🍉 Frutería |
-| 🍰 Postres | 🍠 Camotero · 🍩 Churrería · 🥐 Pan de Canasta · 🧇 Marquesitas · 🍦 Nevería · 🍧 Raspados · 🍭 Dulces de Feria · 🍬 Dulcería |
+| 🍰 Postres | 🍠 Camotero · 🍩 Churrería · 🧺 Pan de Canasta · 🧇 Marquesitas · 🍦 Nevería · 🍧 Raspados · 🍭 Dulces de Feria · 🍬 Dulcería · 🥐 Panadería |
 | 🥤 Bebidas | 🍹 Aguas Frescas · 🥕 Jugos y Licuados |
 
-### 🍽️ Comida (10 puestos)
+### 🍽️ Comida (11 puestos)
 
 <details>
 <summary><b>🌮 Taquería</b> — 52 recetas · de $8 a $10 · puesto inicial</summary>
@@ -163,7 +163,7 @@ El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego,
 </details>
 
 <details>
-<summary><b>🌽 Tamalería</b> — 23 recetas · de $15 a $17 · se desbloquea con $900</summary>
+<summary><b>🌽 Tamalería</b> — 23 recetas · de $3 a $17 · se desbloquea con $900</summary>
 
 Vaporera humeante con tamales verdes, rojos, de rajas, mole, oaxaqueños, dulces, de frijol y de elote. Guajolotas y atoles calientitos.
 
@@ -182,23 +182,23 @@ Vaporera humeante con tamales verdes, rojos, de rajas, mole, oaxaqueños, dulces
 | Tamal Rojo | $15 |
 | Tamal de Mole | $15 |
 | Oaxaqueño | $15 |
-| Guajolota Verde | $15 |
-| Guajolota Roja | $15 |
+| Guajolota Verde | $3 |
+| Guajolota Roja | $3 |
 | Rajas con Crema | $15 |
 | Desayuno Dulce | $15 |
 | Elote con Crema | $15 |
 | Frijol con Queso | $15 |
 | Verde y Rojo | $15 |
-| Guajolota con Champurrado | $15 |
+| Guajolota con Champurrado | $3 |
 | Mole con Café de Olla | $15 |
 | Elote y Vainilla | $15 |
-| Guajolota de Rajas | $15 |
+| Guajolota de Rajas | $3 |
 | Oaxaqueño Bañado | $15 |
 | Pareja Picosa | $15 |
 | Dulce con Champurrado | $15 |
 | Trio Mixto | $17 |
 | Mole con Chocolate | $15 |
-| Guajolota con Atole de Nuez | $15 |
+| Guajolota con Atole de Nuez | $3 |
 | Dulce con Atole de Guayaba | $15 |
 | Rajas con Chocolate | $15 |
 
@@ -331,7 +331,7 @@ Tortas armadas capa por capa: milanesa, pierna, jamón, cubana, suiza, hawaiana,
 </details>
 
 <details>
-<summary><b>🥩 Carnitas</b> — 15 recetas · de $10 a $12 · se desbloquea con $3,000</summary>
+<summary><b>🥩 Carnitas</b> — 15 recetas · de $3 a $12 · se desbloquea con $3,000</summary>
 
 Cazo de cobre con maciza, cuerito, buche, nana y surtida, por taco, torta o por kilo.
 
@@ -354,8 +354,8 @@ Cazo de cobre con maciza, cuerito, buche, nana y surtida, por taco, torta o por 
 | Surtido con Todo | $12 |
 | Maciza con Guacamole | $10 |
 | Chicharrón en Salsa | $10 |
-| Torta de Carnitas | $11 |
-| Torta de Cuerito | $10 |
+| Torta de Carnitas | $3 |
+| Torta de Cuerito | $3 |
 | Medio Kilo de Maciza | $11 |
 | Kilo Surtido | $12 |
 | Maciza y Refresco | $11 |
@@ -500,6 +500,28 @@ Cocteles de camarón y pulpo, tostadas de ceviche, aguachiles y pescadillas fren
 
 </details>
 
+<details>
+<summary><b>⚖️ Tortillería</b> — 6 recetas · de $18 a $34 · se desbloquea con $1,200</summary>
+
+Venta por kilo con báscula: la tortilladora trabaja sin parar y tú pesas un cuarto, medio kilo o un kilo. Tortilla amarilla y blanca toda la semana, masa amarilla y blanca, y tortilla y masa azul solo sábado y domingo. Si das de más pierdes; si das de menos compensas.
+
+**Ingredientes:**
+
+- **Producto:** Amarilla, Blanca, Masa Amar., Masa Blanca, Azul, Masa Azul
+
+**Recetas:**
+
+| Platillo | Precio |
+|---|---|
+| Tortilla Amarilla Por Kilo | $24 |
+| Tortilla Blanca Por Kilo | $24 |
+| Masa Amarilla Por Kilo | $18 |
+| Masa Blanca Por Kilo | $18 |
+| Tortilla Azul - Fin de Semana | $34 |
+| Masa Azul - Fin de Semana | $26 |
+
+</details>
+
 ### 🍿 Botanas (3 puestos)
 
 <details>
@@ -610,7 +632,7 @@ Vasos de fruta con limón, sal y chile, vasos locos con gomitas y chamoy, y coct
 
 </details>
 
-### 🍰 Postres (8 puestos)
+### 🍰 Postres (9 puestos)
 
 <details>
 <summary><b>🍠 Camotero</b> — 13 recetas · de $20 a $20 · se desbloquea con $2,400</summary>
@@ -644,7 +666,7 @@ Carrito camotero con su silbato: camotes y plátanos horneados y plátanos frito
 </details>
 
 <details>
-<summary><b>🍩 Churrería</b> — 19 recetas · de $12 a $12 · se desbloquea con $3,300</summary>
+<summary><b>🍩 Churrería</b> — 19 recetas · de $12 a $13 · se desbloquea con $3,300</summary>
 
 Churros azucarados y rellenos, donas, buñuelos, gorditas de nata, waffles en palo y hot cakes.
 
@@ -664,10 +686,10 @@ Churros azucarados y rellenos, donas, buñuelos, gorditas de nata, waffles en pa
 | Churro de Leche Condensada | $12 |
 | Churro de Fresa | $12 |
 | Churros con Chocolate | $12 |
-| Dona con Chispas | $12 |
-| Dona de Chocolate | $12 |
-| Dona Espolvoreada | $12 |
-| Donas y Café | $12 |
+| Dona con Chispas | $13 |
+| Dona de Chocolate | $13 |
+| Dona Espolvoreada | $13 |
+| Donas y Café | $13 |
 | Buñuelo con Miel | $12 |
 | Buñuelo Azucarado | $12 |
 | Gorditas de Nata | $12 |
@@ -681,7 +703,7 @@ Churros azucarados y rellenos, donas, buñuelos, gorditas de nata, waffles en pa
 </details>
 
 <details>
-<summary><b>🥐 Pan de Canasta</b> — 20 recetas · de $10 a $11 · se desbloquea con $4,200</summary>
+<summary><b>🧺 Pan de Canasta</b> — 20 recetas · de $10 a $11 · se desbloquea con $4,200</summary>
 
 Canasta de pan dulce: conchas, cuernitos, orejas, mantecadas, ojos de buey, garibaldis, pan de feria, pan de muerto y rosca de reyes.
 
@@ -892,9 +914,38 @@ Dulces típicos mexicanos: mazapanes, obleas, cocadas, borrachitos, jamoncillos,
 | Camotes Poblanos | $10 |
 | Bolsita Surtida | $11 |
 | Bolsita Picosa | $11 |
-| Charola de la Abuela | $11 |
+| Charola de La Abuela | $11 |
 | Dulces de Fiesta | $11 |
 | Calabaza en Tacha | $10 |
+
+</details>
+
+<details>
+<summary><b>🥐 Panadería</b> — 12 recetas · de $3 a $280 · se desbloquea con $2,800</summary>
+
+Panadería de verdad: eliges el pan, le pones sus ingredientes, amasas, lo horneas sin que se queme y surtes la vitrina. Los clientes entran con la campanita, toman charola y pinzas, y tú les cobras con la tabla de precios. Incluye rosca de reyes, pan de muerto y pasteles de cumpleaños por encargo.
+
+**Ingredientes:**
+
+- **Panes:** Concha, Concha Ch., Cuernito, Oreja, Mantecada, Ojo Buey, Garibaldi, Dona, Bolillo, Pan Muerto
+- **Especiales:** Rosca, Pastel
+
+**Recetas:**
+
+| Platillo | Precio |
+|---|---|
+| Concha de Vainilla | $12 |
+| Concha de Chocolate | $13 |
+| Cuernito | $10 |
+| Oreja | $9 |
+| Mantecada | $11 |
+| Ojo de Buey | $10 |
+| Garibaldi | $8 |
+| Dona | $13 |
+| Bolillo | $3 |
+| Pan de Muerto | $25 |
+| Rosca de Reyes | $150 |
+| Pastel de Cumpleaños | $280 |
 
 </details>
 
@@ -1020,6 +1071,7 @@ Efectos: nieve en Navidad, corazones flotando en Amor y Amistad, pétalos de cem
 | 💵 **Billete falso** | Algunos clientes pagan con billetes de $500 o $1,000. Revísalos con el **plumón detector** (con animación de destapar y rayar): si la marca queda negra, es falso. el estafador puede arrebatarte el billete y huir, o puedes llamar a la policía para que se lo lleve y te den una recompensa. Si lo aceptas sin revisar y era falso, pierdes el cambio que diste. |
 | 🧔 **Don Chencho** | Un señor sin hogar que te pide un taquito. Si le ayudas, se gana tu confianza y algún día regresa a pagarte con lo que juntó. Si se lo niegas muchas veces, deja de pedirte, pero se queda frente a tu puesto con su cartón de "Tengo hambre"... Su historial se reinicia a los **2 días reales**. Tu **indicador de bondad** se ve en la pantalla de inicio. |
 | 🧾 **Cobrador de renta** | Llega cada noche antes de cerrar y cobra la renta según lo que vendiste: de $30 a $150, nunca más de la mitad del día. |
+| 🌙 **Robo nocturno** | Muy de vez en cuando, después de cerrar, un ratero fuerza la cortina y se lleva 2 o 3 ingredientes. Se vuelven a bloquear y los tienes que comprar otra vez (lo inicial de cada puesto nunca se lo roba). |
 | 🚓 **Patrulla** | los oficiales llegan con sirena, se estacionan y bajan a pedir tacos. |
 | 🪧 **"Traiga cambio"** | el cartel del puesto hace que te paguen con billetes grandes menos seguido. Cada venta muestra el billete o la moneda con la que te pagan y el cambio. |
 
@@ -1073,7 +1125,7 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 3. En la **tienda** compras ingredientes: cada uno te dice cuántas recetas nuevas desbloquea.
 4. Ahorra para abrir **nuevos puestos**, contratar **nuevos clientes** y comprar **ropa** para ellos.
 5. Juega cada nivel en fácil, intermedio y difícil para **platinarlo**.
-6. ¡Completa los 23 puestos y las 447 recetas!
+6. ¡Completa los 25 puestos y las 465 recetas!
 
 > 💡 Los clientes te dan pistas: *"¿Cuándo va a traer suadero?"* o *"¡Debería vender gringas!"*. Hazles caso.
 
@@ -1135,6 +1187,14 @@ Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de músi
 ---
 
 ## 📝 Novedades
+
+**v3.3**
+- ⚖️ **Nueva Tortillería:** vende por kilo con báscula y barra de peso. Tortilla y masa azul solo en fin de semana.
+- 🥐 **Nueva Panadería:** prepara la masa, hornea sin quemar, surte la vitrina y cobra con la tabla de precios. Rosca, pan de muerto y pasteles de cumpleaños por encargo.
+- 🌙 **Robo nocturno:** muy de vez en cuando, al cerrar, un ratero fuerza la cortina y se lleva 2 o 3 ingredientes que tendrás que volver a comprar.
+- 🕗 Días más largos (3 a 6 minutos) y pantalla de inicio con la hora real de tu teléfono.
+- 🪪 Pantalla de inicio rediseñada con tarjetas de monedero, vendidos, bondad, creador y versión.
+- 🗑️ Opción para borrar todos los datos con doble confirmación.
 
 **v3.2**
 - 💸 El dinero se actualiza al instante al pagar la renta, dar cambio o sufrir un asalto.
