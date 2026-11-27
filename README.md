@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1"><img src="https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal: 0 de 66 detecciones" height="46"></a>
-</p>
-<p align="center">
-  <b>🛡️ Juego 100% seguro: analizado por 66 antivirus y ninguno detectó virus ni malware.</b><br>
-  <a href="https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1">Ver el reporte completo en VirusTotal</a> · <a href="#️-seguridad-libre-de-virus">Más detalles</a>
-</p>
+> [!TIP]
+> ## 🛡️ Juego 100% seguro — sin virus ni malware
+> **¡Órale Tacos! v3.5** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
+>
+> [![VirusTotal: 0 de 66 detecciones](https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)
+>
+> 👉 [Ver el reporte oficial en VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1) · [Comprobar la huella del archivo](#️-seguridad-libre-de-virus)
 
 <p align="center">
   <img src="assets/banner.png" alt="¡Órale Tacos! — el juego de puestos de comida mexicana en pixel art" width="100%">
