@@ -1079,7 +1079,7 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 
 ---
 
-## 🗣️ Tu clientela
+## 🗣️ Así hablan tus clientes
 
 > **Doña Lupe (tierna):** *"Ay mijito, ¿cómo estás? Como los que hacía mi mamá."*
 >
