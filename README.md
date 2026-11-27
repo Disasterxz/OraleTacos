@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-3.3-f2c230?style=flat-square" alt="Versión 3.3">
+  <img src="https://img.shields.io/badge/versión-3.5-f2c230?style=flat-square" alt="Versión 3.5">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
   <img src="https://img.shields.io/badge/estilo-pixel_art-b8308a?style=flat-square" alt="Pixel art">
   <img src="https://img.shields.io/badge/creado_por-Disasterxz-24292f?style=flat-square&logo=github" alt="Creado por Disasterxz">
+  <a href="https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1"><img src="https://img.shields.io/badge/VirusTotal-0%2F66_limpio-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal: 0 de 66 detecciones"></a>
+  <a href="https://www.tiktok.com/@disasterxzc"><img src="https://img.shields.io/badge/TikTok-@disasterxzc-fe2c55?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok @disasterxzc"></a>
 </p>
 
 <p align="center"><b>Abre tu puesto a las 8 de la mañana, atiende a la clientela más chida de México y cierra a las 11 de la noche con la caja llena.</b></p>
@@ -63,7 +65,7 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 | 🧾 **Comanda guiada** | Cada pedido viene con su lista de ingredientes. las flechas te dicen qué falta y la pestaña cambia sola al siguiente paso. |
 | 🗣️ **Clientes que hablan** | Más de 150 frases bien mexicanas: amables, apurados, exigentes, bromistas, norteños, chilangos, tiernos, fresas y tímidos. |
 | 🕗 **Un día completo** | el cielo pasa de la mañana al atardecer y a la noche. A las 11 PM se baja la cortina. |
-| 💰 **Economía real** | Precios de la calle (taco a $8). Ganas por ventas y propinas, pierdes si tiras o te equivocas, y cada noche pagas la renta del local. |
+| 💰 **Economía real** | Precios de la calle (taco desde $2). Ganas por ventas y propinas, pierdes si tiras o te equivocas, y cada noche pagas la renta del local. |
 | 🛒 **Tienda** | Compra puestos, ingredientes, nuevos clientes y ropa para tu clientela. |
 | 🎯 **750 niveles** | 30 niveles por puesto en fácil, intermedio y difícil. ¡Complétalos en las tres dificultades para **platinarlos** y ganar un bono! |
 | 📅 **Calendario mexicano** | el juego cambia según la fecha: Reyes, Amor y Amistad, Primavera, Día del Niño, Día de las Madres, Día del Maestro, Fiestas Patrias, Halloween, Día de Muertos, Revolución y Navidad, con decoración, música, personajes y platillos de temporada. |
@@ -91,7 +93,7 @@ Cada puesto tiene su propio escenario, utilería animada, barra, clientela y rec
 ### 🍽️ Comida (11 puestos)
 
 <details>
-<summary><b>🌮 Taquería</b> — 52 recetas · de $8 a $10 · puesto inicial</summary>
+<summary><b>🌮 Taquería</b> — 52 recetas · de $2 a $4 · puesto inicial</summary>
 
 El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego, tortillas de maíz, harina, azul y de colores, carnes, verduras, salsas y aguas.
 
@@ -107,58 +109,58 @@ El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego,
 
 | Platillo | Precio |
 |---|---|
-| Pastor Sencillo | $8 |
-| Asada Sencilla | $8 |
-| Suadero | $9 |
-| Carnitas con Pico | $8 |
-| Chorizo con Queso | $8 |
-| Gringa | $8 |
-| Nopal Vegetariano | $8 |
-| Pescado Sencillo | $8 |
-| Barbacoa Enchilada | $8 |
-| Pollo Chipotle | $8 |
-| Pastor Clásico | $9 |
-| Asada Callejera | $9 |
-| Campechano | $9 |
-| Suadero con Todo | $9 |
-| Carnitas Michoacanas | $9 |
-| Carnitas con Guacamole | $8 |
-| Pollo Asado | $8 |
-| Pollo Sencillo | $9 |
-| Chorizo Callejero | $9 |
-| Barbacoa Hidalguense | $9 |
-| Taco Baja | $9 |
-| Camarón Chipotle | $8 |
-| Gobernador | $8 |
-| Nopal con Frijol | $8 |
-| Azul de Asada | $8 |
-| Azul de Barbacoa | $8 |
-| Azul de Carnitas | $8 |
-| Pastor Norteño | $9 |
-| Pastor Picosito | $8 |
-| Asada con Frijoles | $8 |
-| Asada Norteña | $8 |
-| Suadero Azul | $9 |
-| Mar y Tierra | $8 |
-| Pollo con Frijoles | $8 |
-| Campechano Azul | $9 |
-| Pescado Azul | $8 |
-| Carnitas con Verdura | $9 |
-| con Todo Joven | $10 |
-| Pastor con Horchata | $9 |
-| Asada y Refresco | $9 |
-| Suadero con Jamaica | $9 |
-| Baja con Limonada | $9 |
-| Carnitas y Tamarindo | $8 |
-| Gringa con Naranjada | $9 |
-| Camarón con Mineral | $9 |
-| Pastor en Tortilla Roja | $9 |
-| Nopal en Tortilla Verde | $8 |
-| Pollo en Tortilla Rosa | $8 |
-| Asada en Tortilla Amarilla | $9 |
-| Suadero Rojo | $9 |
-| Camarón en Tortilla Verde | $8 |
-| Taco Arcoíris | $9 |
+| Pastor Sencillo | $2 |
+| Asada Sencilla | $2 |
+| Suadero | $3 |
+| Carnitas con Pico | $2 |
+| Chorizo con Queso | $2 |
+| Gringa | $2 |
+| Nopal Vegetariano | $2 |
+| Pescado Sencillo | $2 |
+| Barbacoa Enchilada | $2 |
+| Pollo Chipotle | $2 |
+| Pastor Clásico | $3 |
+| Asada Callejera | $3 |
+| Campechano | $3 |
+| Suadero con Todo | $3 |
+| Carnitas Michoacanas | $3 |
+| Carnitas con Guacamole | $2 |
+| Pollo Asado | $2 |
+| Pollo Sencillo | $3 |
+| Chorizo Callejero | $3 |
+| Barbacoa Hidalguense | $3 |
+| Taco Baja | $3 |
+| Camarón Chipotle | $2 |
+| Gobernador | $2 |
+| Nopal con Frijol | $2 |
+| Azul de Asada | $2 |
+| Azul de Barbacoa | $2 |
+| Azul de Carnitas | $2 |
+| Pastor Norteño | $3 |
+| Pastor Picosito | $2 |
+| Asada con Frijoles | $2 |
+| Asada Norteña | $2 |
+| Suadero Azul | $3 |
+| Mar y Tierra | $2 |
+| Pollo con Frijoles | $2 |
+| Campechano Azul | $3 |
+| Pescado Azul | $2 |
+| Carnitas con Verdura | $3 |
+| con Todo Joven | $4 |
+| Pastor con Horchata | $3 |
+| Asada y Refresco | $3 |
+| Suadero con Jamaica | $3 |
+| Baja con Limonada | $3 |
+| Carnitas y Tamarindo | $2 |
+| Gringa con Naranjada | $3 |
+| Camarón con Mineral | $3 |
+| Pastor en Tortilla Roja | $3 |
+| Nopal en Tortilla Verde | $2 |
+| Pollo en Tortilla Rosa | $2 |
+| Asada en Tortilla Amarilla | $3 |
+| Suadero Rojo | $3 |
+| Camarón en Tortilla Verde | $2 |
+| Taco Arcoíris | $3 |
 
 </details>
 
@@ -1142,6 +1144,28 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 > **La Güera (fresa):** *"Osea, ¿tienen algo light?"*
 
 17 tipos de clientes y más de 50 nombres distintos. ¡Casi nunca verás al mismo dos veces seguidas!
+
+---
+
+## 🛡️ Seguridad: libre de virus
+
+La versión **3.5** se analizó en **[VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)** con **66 antivirus** (Google, Kaspersky, ESET, Avast, Bitdefender, Microsoft y más):
+
+| Resultado | Antivirus |
+|---|---|
+| ✅ Sin detecciones | **66** |
+| ⚠️ Sospechoso | **0** |
+| ❌ Malicioso | **0** |
+
+👉 **[Ver el reporte completo en VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)**
+
+**Compruébalo tú mismo:** la huella SHA-256 del archivo `OraleTacos-v3.5.apk` es:
+
+```
+0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1
+```
+
+Si la huella de tu descarga es igual, es exactamente el mismo archivo que se analizó. El juego **no pide** datos personales, contactos, cámara ni ubicación; solo usa internet para buscar actualizaciones, el permiso para instalar sus propias actualizaciones y la vibración para los efectos.
 
 ---
 
