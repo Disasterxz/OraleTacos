@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-3.0-f2c230?style=flat-square" alt="Versión 3.0">
+  <img src="https://img.shields.io/badge/versión-3.1-f2c230?style=flat-square" alt="Versión 3.1">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
@@ -63,7 +63,7 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 | 🧾 **Comanda guiada** | Cada pedido viene con su lista de ingredientes. Las flechas te dicen qué falta y la pestaña cambia sola al siguiente paso. |
 | 🗣️ **Clientes que hablan** | Más de 100 frases bien mexicanas: amables, apurados, exigentes, bromistas, norteños, chilangos, tiernos, fresas y tímidos. |
 | 🕗 **Un día completo** | El cielo pasa de la mañana al atardecer y a la noche. A las 11 PM se baja la cortina. |
-| 💰 **Economía real** | Ganas por cada venta y por las propinas. Si tiras o te equivocas, pierdes dinero. |
+| 💰 **Economía real** | Precios de la calle (taco a $8). Ganas por ventas y propinas, pierdes si tiras o te equivocas, y cada noche pagas la renta del local. |
 | 🛒 **Tienda** | Compra puestos, ingredientes, nuevos clientes y ropa para tu clientela. |
 | 🎯 **690 niveles** | 30 niveles por puesto en fácil, intermedio y difícil. ¡Complétalos en las tres dificultades para **platinarlos** y ganar un bono! |
 | 📅 **Calendario mexicano** | El juego cambia según la fecha: Reyes, Amor y Amistad, Primavera, Día del Niño, Día de las Madres, Día del Maestro, Fiestas Patrias, Halloween, Día de Muertos, Revolución y Navidad, con decoración, música, personajes y platillos de temporada. |
@@ -174,6 +174,11 @@ Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de músi
 ---
 
 ## 📝 Novedades
+
+**v3.1**
+- 💲 Precios reales: el taco sencillo cuesta $8 y los más preparados $9 a $11; cada puesto tiene su precio.
+- 🧾 Llega el **cobrador de renta** antes de cerrar y cobra según lo que vendiste en el día.
+- ⚖️ Propinas, bonos y multas rebalanceados para que el progreso sea más largo.
 
 **v3.0**
 - 📅 Calendario de festividades mexicanas con decoración, música, personajes y platillos de temporada.
