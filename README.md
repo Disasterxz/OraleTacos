@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="160" alt="¡Órale Tacos!"></p>
+<p align="center"><img src="icon.png" width="220" alt="¡Órale Tacos!"></p>
 
 <h1 align="center">¡Órale Tacos!</h1>
 <p align="center">Juego para Android inspirado en los puestos de comida mexicana, hecho en pixel art.</p>
@@ -15,13 +15,13 @@ El juego revisa si hay actualizaciones cada vez que se abre, en la pantalla de c
 - Arma el platillo con los ingredientes; las flechas amarillas te señalan lo que falta.
 - Toca **ENTREGAR** (o al cliente). Si lo sirves rápido, deja propina; 3 aciertos seguidos hacen combo.
 
-### Puestos
-| Puesto | Platillos |
+### 22 puestos y 417 recetas
+| Categoría | Puestos |
 |---|---|
-| Taquería | 45 recetas: pastor, asada, suadero, carnitas, barbacoa, pescado, camarón y más, con salsas, complementos y aguas frescas |
-| Tamalería | 19 recetas: tamales verdes, rojos, de rajas, mole, oaxaqueños, dulces, guajolotas y atoles |
-| Pozolería | 19 recetas: pozole rojo, blanco y verde, menudo, birria, caldo de res, tlalpeño y sopa de lima |
-| Elotero | 15 recetas: elotes, elotes asados y esquites con todo |
+| Comida | Taquería, Tamalería, Pozolería, Antojitos (quesadillas, gorditas, sopes, huaraches, tlacoyos, molotes, empanadas, flautas), Tortería (tortas, ahogadas, cemitas, pambazos), Carnitas, Birriería (birria, quesabirria, barbacoa y consomé), Al Carbón (pollos, alitas, boneless, costillas, parrilladas), Jochos y Burgers (hot dogs, hamburguesas, banderillas, salchipulpos), Mariscos (cocteles, tostadas, aguachiles, pescadillas) |
+| Botanas | Elotero (elotes, esquites, trolelotes, chaskas), Botanero (frituras preparadas, chicharrón de harina, papas, cacahuates, gomitas), Frutería (fruta con chile, vasos locos, cocteles con yogurt) |
+| Postres | Camotero, Churrería (churros, donas, buñuelos, gorditas de nata, waffles, hot cakes), Pan de Canasta, Marquesitas y Crepas, Nevería (nieves de garrafa, paletas, esquimales), Raspados (raspados, diablitos, chamoyadas), Dulces de Feria (algodón, manzanas, palomitas, alegrías, arroz con leche, flan, gelatina, fresas con crema) |
+| Bebidas | Aguas Frescas (aguas, tepache, tejuino, pozol, rusas y micheladas sin alcohol), Jugos y Licuados; además atoles, champurrado, café de olla y chocolate en sus puestos |
 
 ### Tipos de juego
 - **Clásico**: 3 vidas; cada nivel llegan más clientes y recetas nuevas.
@@ -33,5 +33,5 @@ El juego revisa si hay actualizaciones cada vez que se abre, en la pantalla de c
 <img src="screenshots/inicio.png" width="200">
 <img src="screenshots/puestos.png" width="200">
 <img src="screenshots/taqueria.png" width="200">
-<img src="screenshots/elotero.png" width="200">
+<img src="screenshots/torteria.png" width="200">
 </p>
