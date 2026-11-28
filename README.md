@@ -1,6 +1,6 @@
 > [!TIP]
 > ## 🛡️ Juego 100% seguro — sin virus ni malware
-> **¡Órale Tacos! v5.5** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
+> **¡Órale Tacos! v5.9** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
 >
 > [![VirusTotal: 0 de 66 detecciones](https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)
 >
