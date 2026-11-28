@@ -1,10 +1,10 @@
 > [!TIP]
 > ## 🛡️ Juego 100% seguro — sin virus ni malware
-> **¡Órale Tacos! v5.9** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
+> **¡Órale Tacos! v5.9** se analizó en **VirusTotal** con sus dos archivos, Android y Windows, y **ningún antivirus detectó nada**: **0 detecciones** en el APK (66 motores) y **0 detecciones** en el ejecutable de Windows (61 motores).
 >
-> [![VirusTotal: 0 de 66 detecciones](https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)
+> [![VirusTotal: 0 detecciones en Android](https://img.shields.io/badge/✔_ANDROID-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832) [![VirusTotal: 0 detecciones en Windows](https://img.shields.io/badge/✔_WINDOWS-0%2F61_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/e6a6a16e9264a380451c9381dd5548e952e9071b60619b1bb985a76c263258ae)
 >
-> 👉 [Ver el reporte oficial en VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8) · [Comprobar la huella del archivo](#️-seguridad-libre-de-virus)
+> 👉 [Reporte del APK](https://www.virustotal.com/gui/file/a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832) · [Reporte del .exe de Windows](https://www.virustotal.com/gui/file/e6a6a16e9264a380451c9381dd5548e952e9071b60619b1bb985a76c263258ae) · [Comprobar la huella del archivo](#️-seguridad-libre-de-virus)
 
 <p align="center">
   <img src="assets/banner.png" alt="¡Órale Tacos! — el juego de puestos de comida mexicana en pixel art" width="100%">
@@ -12,16 +12,21 @@
 
 <p align="center">
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/DESCARGAR_APK-Android-3a9a3c?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK" height="46"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/DESCARGAR_WINDOWS-.exe_portable-2e6ad0?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows" height="46"></a>
 </p>
 
+<p align="center"><sub>Un solo <code>.exe</code> portable para Windows 7, 8, 10 y 11, de 32 o 64 bits. No hay que instalar nada.</sub></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-5.5-f2c230?style=flat-square" alt="Versión 5.5">
+  <img src="https://img.shields.io/badge/versión-5.9-f2c230?style=flat-square" alt="Versión 5.9">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
+  <img src="https://img.shields.io/badge/Windows-7_a_11_(32_y_64_bits)-2e6ad0?style=flat-square&logo=windows&logoColor=white" alt="Windows 7 a 11, 32 y 64 bits">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
   <img src="https://img.shields.io/badge/estilo-pixel_art-b8308a?style=flat-square" alt="Pixel art">
   <img src="https://img.shields.io/badge/creado_por-Disasterxz-24292f?style=flat-square&logo=github" alt="Creado por Disasterxz">
-  <a href="https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8"><img src="https://img.shields.io/badge/VirusTotal-0%2F66_limpio-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal: 0 de 66 detecciones"></a>
+  <a href="https://www.virustotal.com/gui/file/a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832"><img src="https://img.shields.io/badge/VirusTotal-APK_0%2F66-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal APK: 0 de 66 detecciones"></a>
+  <a href="https://www.virustotal.com/gui/file/e6a6a16e9264a380451c9381dd5548e952e9071b60619b1bb985a76c263258ae"><img src="https://img.shields.io/badge/VirusTotal-Windows_0%2F61-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal Windows: 0 de 61 detecciones"></a>
   <a href="https://www.tiktok.com/@disasterxzc"><img src="https://img.shields.io/badge/TikTok-@disasterxzc-fe2c55?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok @disasterxzc"></a>
 </p>
 
@@ -62,6 +67,24 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
   </tr>
 </table>
 
+### 🖥️ Versión de computadora (Windows)
+
+En la computadora la pantalla de juego ocupa todo el ancho: la escena, los clientes repartidos, la comanda a la derecha y la cuadrícula de ingredientes abajo.
+
+<table>
+  <tr>
+    <td><img src="assets/desk1.png" width="480"></td>
+    <td><img src="assets/desk2.png" width="480"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/desk3.png" width="480"></td>
+    <td><img src="assets/desk4.png" width="480"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="assets/desk5.png" width="480"></td>
+  </tr>
+</table>
+
 ---
 
 ## ✨ Lo que vas a encontrar
@@ -81,7 +104,7 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 | 🧔 **Don Chencho** | Un señor sin hogar que te pide un taquito. Si le ayudas, un día te lo paga. Tu **bondad** queda marcada. |
 | 💵 **Billetes y monedas** | Tus clientes pagan con billetes y monedas mexicanas y ves el cambio. ¡Favor de traer cambio! |
 | 🦗 **Visitas especiales** | Personajes misteriosos que aparecen sobre todo antes de cerrar... ¿los reconoces? |
-| 🎨 **Pixel art animado** | Trompo de pastor girando con su piña y su fuego, vaporeras, ollas de barro, comales, garrafas y más. |
+| 🎨 **Pixel art animado** | Trompo de pastor girando con su piña y su fuego, vaporeras, ollas de barro, garrafas y más. |
 | 💡 **Consejos** | Tips cortos que aparecen sin interrumpir la partida. |
 | 📱 **Pantalla completa** | Se adapta a cualquier teléfono o tablet, siempre en vertical. |
 
@@ -1243,40 +1266,56 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 
 ## 🛡️ Seguridad: libre de virus
 
-La versión **5.5** se analizó en **[VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)** con **66 antivirus** (Google, Kaspersky, ESET, Avast, Bitdefender, Microsoft y más):
+Los dos archivos de la versión **5.9** se analizaron en **[VirusTotal](https://www.virustotal.com/gui/file/a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832)**:
 
-| Resultado | Antivirus |
-|---|---|
-| ✅ sin detecciones | **66** |
-| ⚠️ Sospechoso | **0** |
-| ❌ Malicioso | **0** |
+| Archivo | Antivirus | ✅ Sin detecciones | ⚠️ Sospechoso | ❌ Malicioso | Reporte |
+|---|---|---|---|---|---|
+| Android `OraleTacos-v5.9.apk` | 66 | **66** | 0 | 0 | [ver](https://www.virustotal.com/gui/file/a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832) |
+| Windows `OraleTacos-5.9.0-Windows-portable.exe` | 61 | **61** | 0 | 0 | [ver](https://www.virustotal.com/gui/file/e6a6a16e9264a380451c9381dd5548e952e9071b60619b1bb985a76c263258ae) |
 
-👉 **[Ver el reporte completo en VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)**
+En el análisis del `.exe`, 5 motores no respondieron a tiempo y 1 tuvo un fallo técnico; no son detecciones.
 
-**Compruébalo tú mismo:** la huella SHA-256 del archivo `OraleTacos-v5.5.apk` es:
+**Compruébalo tú mismo:** las huellas SHA-256 son:
 
 ```
-d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8
+Android  (OraleTacos-v5.9.apk):                 a86bae6b56efb62c32800372c2b114d925435e897ff29a08168b021393750832
+Windows  (OraleTacos-5.9.0-Windows-portable.exe): e6a6a16e9264a380451c9381dd5548e952e9071b60619b1bb985a76c263258ae
 ```
 
 Si la huella de tu descarga es igual, es exactamente el mismo archivo que se analizó. El juego **no pide** datos personales, contactos, cámara ni ubicación; solo usa internet para buscar actualizaciones, el permiso para instalar sus propias actualizaciones y la vibración para los efectos.
+
+**Aviso de Windows:** el `.exe` todavía no tiene firma digital. Por eso, al abrirlo por primera vez, Windows SmartScreen puede mostrar "Windows protegió tu PC": pulsa **Más información** y después **Ejecutar de todas formas**.
 
 ---
 
 ## 📲 Cómo instalarlo
 
-1. Entra a **[Releases](../../releases/latest)** y descarga el archivo `.apk` más reciente.
+### 📱 Android
+
+1. Entra a **[Releases](../../releases/latest)** y descarga el archivo `OraleTacos-v5.9.apk`.
 2. Ábrelo en tu teléfono Android.
 3. Si te lo pide, permite **"instalar apps de fuentes desconocidas"**.
 4. ¡Listo! Abre **¡Órale Tacos!** y a vender.
 
 **Requisitos:** Android 7.0 o superior. No necesita internet para jugar.
 
+### 🖥️ Windows
+
+1. Entra a **[Releases](../../releases/latest)** y descarga el archivo `OraleTacos-5.9.0-Windows-portable.exe`.
+2. Ábrelo. **No hay instalador**: es un solo archivo portable.
+3. Si SmartScreen avisa, pulsa **Más información** y después **Ejecutar de todas formas**.
+
+**Requisitos:** Windows 7, 8, 10 u 11, de 32 o 64 bits. El mismo archivo funciona en los dos casos.
+**Teclas:** `Esc` regresa al menú anterior, `F11` cambia entre pantalla completa y ventana.
+
 ---
 
 ## 🔄 Actualizaciones automáticas
 
-Cada vez que abres el juego, la pantalla de carga revisa si hay una versión nueva. Si la hay, el juego la descarga e instala desde aquí mismo: **siempre tendrás la versión más reciente**.
+Cada vez que abres el juego, la pantalla de carga revisa si hay una versión nueva en GitHub. Si la hay, el juego la descarga e instala desde aquí mismo: **siempre tendrás la versión más reciente**.
+
+- **Android:** descarga el APK nuevo y te pide confirmar la instalación.
+- **Windows:** descarga el `.exe` nuevo, cambia el que tienes por el nuevo y vuelve a abrir el juego solo. También puedes forzar la búsqueda desde **Ajustes > Buscar actualizaciones**.
 
 ---
 
@@ -1307,6 +1346,42 @@ Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de músi
 ## 📝 Novedades
 
 El historial completo de cambios del juego, de la versión 2.0 a la actual. Se actualiza en cada versión.
+
+### v5.9 · 27/11/2026
+
+**Añadido**
+- Refresco en los pedidos de la taquería, si tienes alguno desbloqueado (horchata, jamaica, tamarindo, limonada, refresco, naranja o mineral).
+- Dificultad con tiempo de espera: fácil 25 s, intermedio 15 s y difícil 10 s.
+- Intermedio se desbloquea al completar el nivel 30 en fácil, y difícil al completar el nivel 30 en intermedio.
+- Novedades ahora es un icono junto al de GitHub en la pantalla de inicio.
+- Botón **SALIR DEL JUEGO** en la pantalla de inicio.
+- Versión de Windows: un solo `.exe` portable para 32 y 64 bits.
+
+**Cambiado**
+- La paciencia ya no depende de la personalidad del cliente: la marca la dificultad.
+- En Ajustes, la dificultad NORMAL ahora se llama MEDIO.
+
+**Corregido**
+- Solo puedes jugar en las dificultades que tengas desbloqueadas.
+
+### v5.8 · 27/11/2026
+
+**Añadido**
+- Pantalla de juego horizontal en la computadora: escena a lo ancho, clientes repartidos, comanda a la derecha y cuadrícula abajo.
+- Tienda, pausa, resumen, ajustes, código, recetario y novedades en horizontal en la computadora.
+- Tortillería y panadería con pantalla horizontal en la computadora.
+- Actualización automática en Windows: revisa GitHub al abrir y cada 30 minutos.
+
+**Cambiado**
+- Se quitó la cocción: el taco se arma al momento y la carne ya viene lista.
+
+**Eliminado**
+- El comal y las estaciones de cocción de los puestos.
+
+### v5.7 · 27/11/2026
+
+**Añadido**
+- Botón **SALIR DEL JUEGO** en Ajustes, en el teléfono y en la computadora, con confirmación de doble toque.
 
 ### v5.5 · 27/11/2026
 
