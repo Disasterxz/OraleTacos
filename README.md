@@ -30,7 +30,9 @@
   <a href="https://www.tiktok.com/@disasterxzc"><img src="https://img.shields.io/badge/TikTok-@disasterxzc-fe2c55?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok @disasterxzc"></a>
 </p>
 
-<p align="center"><b>Abre tu puesto a las 8 de la mañana, atiende a la clientela más chida de México y cierra a las 11 de la noche con la caja llena.</b></p>
+<p align="center"><b>Abre tu puesto a las 6 de la mañana, atiende a la clientela más chida de México y cierra a las 6:30 de la tarde con la caja llena.</b></p>
+
+<p align="center"><sub>🕕 <b>Horario:</b> la taquería y los demás puestos de día abren a las <b>6:00 AM</b> y cierran a las <b>6:30 PM</b>. La <b>cantina</b> es de noche: abre a las <b>6:00 PM</b> y cierra a las <b>6:30 AM</b>.</sub></p>
 
 ---
 
@@ -1210,7 +1212,7 @@ Además, en cada festividad llegan personajes de temporada: Santa, el Duende, el
 ## 👥 Tu clientela
 
 - **23 tipos de clientes:** obrero, estudiante, señor, abuelita, chava, vaquera, abuelito, cocinera, chef, futbolista, turista, pescador, doctora, charro, charra, rockero, motociclista, jarocho, tehuana, mariachi, luchador, luchadora y catrina (la mayoría se desbloquean en la tienda).
-- **9 personalidades** que cambian su paciencia y lo que dicen: amable, apurado, exigente, bromista, norteño, chilango, tierno, fresa y tímido.
+- **9 personalidades** que cambian lo que dicen: amable, apurado, exigente, bromista, norteño, chilango, tierno, fresa y tímido. El tiempo de espera lo marca la dificultad (fácil 25 s, intermedio 15 s y difícil 10 s).
 - **Más de 50 nombres** y más de 150 frases mexicanas. Te saludan según la hora, se desesperan, te agradecen, te reclaman y hasta **te sugieren qué ingredientes o puestos comprar**.
 - **Ropa:** lentes de sol, sombreros, coronas de flores, sarapes, ropa de fiesta, paliacates, bigotes, gorras, cadenas de oro, camisas a cuadros y pañuelos.
 
@@ -1225,10 +1227,12 @@ Además, en cada festividad llegan personajes de temporada: Santa, el Duende, el
 
 ## 🌅 Un día en tu puesto
 
-- **8:00 AM:** sube la cortina (o la lona, según el puesto) y llegan los primeros clientes.
-- **El cielo cambia:** mañana, mediodía, atardecer y noche con focos y estrellas.
-- **10:00 PM:** llega el cobrador de renta.
-- **11:00 PM:** ya no entra nadie, pero atiendes a los que siguen esperando.
+- **6:00 AM:** sube la cortina (o la lona, según el puesto) y llegan los primeros clientes.
+- **El cielo cambia:** mañana, mediodía, atardecer y noche, con focos y estrellas.
+- **Entre 5:20 y 6:10 PM:** llega el cobrador de renta, a media tarde.
+- **6:30 PM:** cierra el puesto. Ya no entra nadie, pero atiendes a los que siguen esperando.
+- **Cantina:** abre de noche, a las 6:00 PM, y cierra a las 6:30 AM.
+- **Robo nocturno:** de vez en cuando, después de cerrar, alguien puede entrar a robarte ingredientes.
 - **Cierre:** se baja la cortina con su letrero de "CERRADO" y ves el resumen del día: lo que vendiste, propinas, mermas, devoluciones, robos, renta y bonos.
 
 ## ⚙️ Ajustes
@@ -1243,7 +1247,7 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 2. Cada venta te da dinero y propina; al cerrar el puesto ves tu **resumen de ventas**.
 3. En la **tienda** compras ingredientes: cada uno te dice cuántas recetas nuevas desbloquea.
 4. Ahorra para abrir **nuevos puestos**, contratar **nuevos clientes** y comprar **ropa** para ellos.
-5. Juega cada nivel en fácil, intermedio y difícil para **platinarlo**.
+5. Completa el nivel 30 en **Fácil** para abrir **Medio**, y en **Medio** para abrir **Difícil**. Después juega cada nivel en las tres dificultades para **platinarlo**.
 6. ¡Completa los 26 puestos y las 529 recetas!
 
 > 💡 Los clientes te dan pistas: *"¿Cuándo va a traer suadero?"* o *"¡Debería vender gringas!"*. Hazles caso.
@@ -1338,7 +1342,7 @@ No. Tu dinero, tus puestos, ingredientes, niveles y récords se conservan.
 
 <details>
 <summary><b>¿Puedo cambiar la dificultad?</b></summary>
-Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de música, sonidos, vibración, flechas de ayuda, efectos y consejos.
+Sí. En <b>Ajustes</b> puedes elegir Fácil, Medio o Difícil, además de música, sonidos, vibración, flechas de ayuda, efectos y consejos. Solo puedes jugar las dificultades que tengas desbloqueadas: **Medio** se abre al completar el nivel 30 en Fácil, y **Difícil** al completar el nivel 30 en Medio.
 </details>
 
 ---
