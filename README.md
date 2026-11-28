@@ -1,10 +1,10 @@
 > [!TIP]
 > ## 🛡️ Juego 100% seguro — sin virus ni malware
-> **¡Órale Tacos! v3.5** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
+> **¡Órale Tacos! v5.5** fue analizado por **66 antivirus en VirusTotal** (Google, Microsoft, Kaspersky, ESET, Avast, Bitdefender y más) y **ninguno detectó nada**: **0 de 66**.
 >
-> [![VirusTotal: 0 de 66 detecciones](https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)
+> [![VirusTotal: 0 de 66 detecciones](https://img.shields.io/badge/✔_VIRUSTOTAL-0%2F66_DETECCIONES-2ea043?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)
 >
-> 👉 [Ver el reporte oficial en VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1) · [Comprobar la huella del archivo](#️-seguridad-libre-de-virus)
+> 👉 [Ver el reporte oficial en VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8) · [Comprobar la huella del archivo](#️-seguridad-libre-de-virus)
 
 <p align="center">
   <img src="assets/banner.png" alt="¡Órale Tacos! — el juego de puestos de comida mexicana en pixel art" width="100%">
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versión-3.5-f2c230?style=flat-square" alt="Versión 3.5">
+  <img src="https://img.shields.io/badge/versión-5.5-f2c230?style=flat-square" alt="Versión 5.5">
   <img src="https://img.shields.io/badge/Android-7.0+-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 o superior">
   <img src="https://img.shields.io/badge/precio-gratis-40a8b0?style=flat-square" alt="Gratis">
   <img src="https://img.shields.io/badge/idioma-español-c8323c?style=flat-square" alt="Español">
   <img src="https://img.shields.io/badge/estilo-pixel_art-b8308a?style=flat-square" alt="Pixel art">
   <img src="https://img.shields.io/badge/creado_por-Disasterxz-24292f?style=flat-square&logo=github" alt="Creado por Disasterxz">
-  <a href="https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1"><img src="https://img.shields.io/badge/VirusTotal-0%2F66_limpio-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal: 0 de 66 detecciones"></a>
+  <a href="https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8"><img src="https://img.shields.io/badge/VirusTotal-0%2F66_limpio-2ea043?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal: 0 de 66 detecciones"></a>
   <a href="https://www.tiktok.com/@disasterxzc"><img src="https://img.shields.io/badge/TikTok-@disasterxzc-fe2c55?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok @disasterxzc"></a>
 </p>
 
@@ -68,8 +68,8 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 
 | | |
 |---|---|
-| 🏪 **25 puestos** | Taquería, tamalería, tortería, mariscos, nevería, raspados, dulcería, dulces de feria y muchos más. |
-| 📖 **465 recetas** | Desde un taco de pastor en tortilla de colores hasta una torta cubana, pan de muerto o ponche navideño. |
+| 🏪 **26 puestos** | Taquería, tamalería, tortería, mariscos, nevería, raspados, dulcería, dulces de feria y muchos más. |
+| 📖 **529 recetas** | Desde un taco de pastor en tortilla de colores hasta una torta cubana, pan de muerto o ponche navideño. |
 | 🧾 **Comanda guiada** | Cada pedido viene con su lista de ingredientes. las flechas te dicen qué falta y la pestaña cambia sola al siguiente paso. |
 | 🗣️ **Clientes que hablan** | Más de 150 frases bien mexicanas: amables, apurados, exigentes, bromistas, norteños, chilangos, tiernos, fresas y tímidos. |
 | 🕗 **Un día completo** | el cielo pasa de la mañana al atardecer y a la noche. A las 11 PM se baja la cortina. |
@@ -87,7 +87,7 @@ Cada cliente llega con su pedido, te habla, se desespera si tardas y te deja pro
 
 ---
 
-## 🗺️ Los 25 puestos
+## 🗺️ Los 26 puestos
 
 Cada puesto tiene su propio escenario, utilería animada, barra, clientela y recetas. Toca un puesto para ver todo lo que vende.
 
@@ -96,18 +96,19 @@ Cada puesto tiene su propio escenario, utilería animada, barra, clientela y rec
 | 🍽️ Comida | 🌮 Taquería · 🌽 Tamalería · 🍲 Pozolería · 🥟 Antojitos · 🥖 Tortería · 🥩 Carnitas · 🍜 Birriería · 🍗 al Carbón · 🌭 Jochos y Burgers · 🦐 Mariscos · ⚖️ Tortillería |
 | 🍿 Botanas | 🌽 Elotero · 🥨 Botanero · 🍉 Frutería |
 | 🍰 Postres | 🍠 Camotero · 🍩 Churrería · 🧺 Pan de Canasta · 🧇 Marquesitas · 🍦 Nevería · 🍧 Raspados · 🍭 Dulces de Feria · 🍬 Dulcería · 🥐 Panadería |
-| 🥤 Bebidas | 🍹 Aguas Frescas · 🥕 Jugos y Licuados |
+| 🥤 Bebidas | 🍹 Aguas Frescas · 🥕 Jugos y Licuados · 🍺 Cantina |
 
 ### 🍽️ Comida (11 puestos)
 
 <details>
-<summary><b>🌮 Taquería</b> — 52 recetas · de $2 a $4 · puesto inicial</summary>
+<summary><b>🌮 Taquería</b> — 58 recetas · de $1 a $4 · puesto inicial</summary>
 
 El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego, tortillas de maíz, harina, azul y de colores, carnes, verduras, salsas y aguas.
 
 **Ingredientes:**
 
-- **Tortilla:** Maíz, Harina, Azul, T. Roja, T. Verde, T. Rosa, T. Amarilla
+- **Tortilla:** Maíz, Harina, Azul, T. Amarilla, T. Roja, T. Verde
+- **Especial:** T. Rosa, Integral, Negra, Quemada, Nopal, Arcoíris
 - **Carne:** Pastor, Asada, Suadero, Carnitas, Pollo, Chorizo, Barbacoa, Pescado, Camarón, Nopal
 - **Extras:** Cebolla, Cilantro, Piña, Limón, Rábano, Pepino, Queso, Guacamole, Frijoles, Col
 - **Salsas:** Verde, Roja, Habanero, Pico, Chipotle, Crema
@@ -117,34 +118,34 @@ El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego,
 
 | Platillo | Precio |
 |---|---|
-| Pastor Sencillo | $2 |
+| Pastor Sencillo | $1 |
 | Asada Sencilla | $2 |
-| Suadero | $3 |
-| Carnitas con Pico | $2 |
-| Chorizo con Queso | $2 |
+| Suadero | $2 |
+| Carnitas con Pico | $1 |
+| Chorizo con Queso | $1 |
 | Gringa | $2 |
 | Nopal Vegetariano | $2 |
 | Pescado Sencillo | $2 |
-| Barbacoa Enchilada | $2 |
+| Barbacoa Enchilada | $1 |
 | Pollo Chipotle | $2 |
 | Pastor Clásico | $3 |
-| Asada Callejera | $3 |
+| Asada Callejera | $2 |
 | Campechano | $3 |
 | Suadero con Todo | $3 |
-| Carnitas Michoacanas | $3 |
+| Carnitas Michoacanas | $2 |
 | Carnitas con Guacamole | $2 |
 | Pollo Asado | $2 |
-| Pollo Sencillo | $3 |
-| Chorizo Callejero | $3 |
+| Pollo Sencillo | $2 |
+| Chorizo Callejero | $2 |
 | Barbacoa Hidalguense | $3 |
-| Taco Baja | $3 |
+| Taco Baja | $2 |
 | Camarón Chipotle | $2 |
 | Gobernador | $2 |
-| Nopal con Frijol | $2 |
-| Azul de Asada | $2 |
-| Azul de Barbacoa | $2 |
-| Azul de Carnitas | $2 |
-| Pastor Norteño | $3 |
+| Nopal con Frijol | $3 |
+| Azul de Asada | $3 |
+| Azul de Barbacoa | $3 |
+| Azul de Carnitas | $3 |
+| Pastor Norteño | $2 |
 | Pastor Picosito | $2 |
 | Asada con Frijoles | $2 |
 | Asada Norteña | $2 |
@@ -152,28 +153,34 @@ El puesto con el que empiezas. Trompo de pastor girando con su piña y su fuego,
 | Mar y Tierra | $2 |
 | Pollo con Frijoles | $2 |
 | Campechano Azul | $3 |
-| Pescado Azul | $2 |
-| Carnitas con Verdura | $3 |
+| Pescado Azul | $3 |
+| Carnitas con Verdura | $2 |
 | con Todo Joven | $4 |
 | Pastor con Horchata | $3 |
 | Asada y Refresco | $3 |
-| Suadero con Jamaica | $3 |
-| Baja con Limonada | $3 |
+| Suadero con Jamaica | $2 |
+| Baja con Limonada | $2 |
 | Carnitas y Tamarindo | $2 |
-| Gringa con Naranjada | $3 |
-| Camarón con Mineral | $3 |
-| Pastor en Tortilla Roja | $3 |
+| Gringa con Naranjada | $2 |
+| Camarón con Mineral | $2 |
+| Pastor en Tortilla Roja | $2 |
 | Nopal en Tortilla Verde | $2 |
 | Pollo en Tortilla Rosa | $2 |
-| Asada en Tortilla Amarilla | $3 |
-| Suadero Rojo | $3 |
+| Asada en Tortilla Amarilla | $2 |
+| Suadero Rojo | $2 |
 | Camarón en Tortilla Verde | $2 |
-| Taco Arcoíris | $3 |
+| Taco Arcoíris | $2 |
+| Pastor en Tortilla Integral | $2 |
+| Suadero en Tortilla Integral | $2 |
+| Nopal en Tortilla de Nopal | $2 |
+| Asada en Tortilla Negra | $2 |
+| Pollo en Tortilla Quemada | $2 |
+| Carnitas en Tortilla Arcoíris | $2 |
 
 </details>
 
 <details>
-<summary><b>🌽 Tamalería</b> — 23 recetas · de $3 a $17 · se desbloquea con $900</summary>
+<summary><b>🌽 Tamalería</b> — 23 recetas · de $1 a $3 · se desbloquea con $900</summary>
 
 Vaporera humeante con tamales verdes, rojos, de rajas, mole, oaxaqueños, dulces, de frijol y de elote. Guajolotas y atoles calientitos.
 
@@ -188,34 +195,34 @@ Vaporera humeante con tamales verdes, rojos, de rajas, mole, oaxaqueños, dulces
 
 | Platillo | Precio |
 |---|---|
-| Tamal Verde | $15 |
-| Tamal Rojo | $15 |
-| Tamal de Mole | $15 |
-| Oaxaqueño | $15 |
-| Guajolota Verde | $3 |
-| Guajolota Roja | $3 |
-| Rajas con Crema | $15 |
-| Desayuno Dulce | $15 |
-| Elote con Crema | $15 |
-| Frijol con Queso | $15 |
-| Verde y Rojo | $15 |
-| Guajolota con Champurrado | $3 |
-| Mole con Café de Olla | $15 |
-| Elote y Vainilla | $15 |
-| Guajolota de Rajas | $3 |
-| Oaxaqueño Bañado | $15 |
-| Pareja Picosa | $15 |
-| Dulce con Champurrado | $15 |
-| Trio Mixto | $17 |
-| Mole con Chocolate | $15 |
-| Guajolota con Atole de Nuez | $3 |
-| Dulce con Atole de Guayaba | $15 |
-| Rajas con Chocolate | $15 |
+| Tamal Verde | $2 |
+| Tamal Rojo | $2 |
+| Tamal de Mole | $2 |
+| Oaxaqueño | $2 |
+| Guajolota Verde | $1 |
+| Guajolota Roja | $1 |
+| Rajas con Crema | $2 |
+| Desayuno Dulce | $2 |
+| Elote con Crema | $2 |
+| Frijol con Queso | $2 |
+| Verde y Rojo | $2 |
+| Guajolota con Champurrado | $1 |
+| Mole con Café de Olla | $2 |
+| Elote y Vainilla | $2 |
+| Guajolota de Rajas | $1 |
+| Oaxaqueño Bañado | $2 |
+| Pareja Picosa | $2 |
+| Dulce con Champurrado | $2 |
+| Trio Mixto | $3 |
+| Mole con Chocolate | $2 |
+| Guajolota con Atole de Nuez | $1 |
+| Dulce con Atole de Guayaba | $2 |
+| Rajas con Chocolate | $2 |
 
 </details>
 
 <details>
-<summary><b>🍲 Pozolería</b> — 23 recetas · de $45 a $55 · se desbloquea con $1,400</summary>
+<summary><b>🍲 Pozolería</b> — 23 recetas · de $6 a $8 · se desbloquea con $1,400</summary>
 
 Olla de barro con pozole rojo, blanco y verde, menudo, pancita, birria, caldo de res, de gallina, tlalpeño y sopa de lima.
 
@@ -230,34 +237,34 @@ Olla de barro con pozole rojo, blanco y verde, menudo, pancita, birria, caldo de
 
 | Platillo | Precio |
 |---|---|
-| Pozole Rojo Sencillo | $45 |
-| Birria Sencilla | $45 |
-| Caldo de Res | $45 |
-| Menudo Sencillo | $45 |
-| Verde con Aguacate | $45 |
-| Tlalpeño | $45 |
-| Sopa de Lima | $45 |
-| Pozole Blanco | $50 |
-| Pozole Rojo | $55 |
-| Pozole Verde | $50 |
-| Menudo Completo | $50 |
-| Birria de Jalisco | $50 |
-| Caldo de Res Completo | $50 |
-| Blanco con Crema | $45 |
-| Tlalpeño con Tostada | $45 |
-| Rojo con Chicharrón | $45 |
-| Pozole con Jamaica | $50 |
-| Menudo con Refresco | $45 |
-| Birria y Horchata | $45 |
-| Caldo de Gallina | $50 |
-| Gallina Completo | $50 |
-| Pancita | $50 |
-| Pancita Sencilla | $45 |
+| Pozole Rojo Sencillo | $6 |
+| Birria Sencilla | $6 |
+| Caldo de Res | $6 |
+| Menudo Sencillo | $6 |
+| Verde con Aguacate | $6 |
+| Tlalpeño | $6 |
+| Sopa de Lima | $6 |
+| Pozole Blanco | $7 |
+| Pozole Rojo | $8 |
+| Pozole Verde | $7 |
+| Menudo Completo | $7 |
+| Birria de Jalisco | $7 |
+| Caldo de Res Completo | $7 |
+| Blanco con Crema | $6 |
+| Tlalpeño con Tostada | $6 |
+| Rojo con Chicharrón | $6 |
+| Pozole con Jamaica | $7 |
+| Menudo con Refresco | $6 |
+| Birria y Horchata | $6 |
+| Caldo de Gallina | $7 |
+| Gallina Completo | $7 |
+| Pancita | $7 |
+| Pancita Sencilla | $6 |
 
 </details>
 
 <details>
-<summary><b>🥟 Antojitos</b> — 29 recetas · de $15 a $19 · se desbloquea con $1,800</summary>
+<summary><b>🥟 Antojitos</b> — 29 recetas · de $2 a $4 · se desbloquea con $1,800</summary>
 
 Comal con quesadillas al comal y fritas, gorditas, sopes, huaraches, tlacoyos, molotes, empanadas, flautas y tacos dorados.
 
@@ -272,40 +279,40 @@ Comal con quesadillas al comal y fritas, gorditas, sopes, huaraches, tlacoyos, m
 
 | Platillo | Precio |
 |---|---|
-| Quesadilla de Papa | $15 |
-| Quesadilla de Tinga | $15 |
-| Quesadilla de Flor | $15 |
-| Quesadilla de Champiñones | $15 |
-| Quesadilla de Chicharrón | $15 |
-| Quesadilla Sola | $15 |
-| Quesadilla de Sesos | $17 |
-| Frita de Papa | $17 |
-| Frita de Picadillo | $17 |
-| Gordita de Chicharrón | $17 |
-| Gordita de Requesón | $15 |
-| Sope Sencillo | $17 |
-| Sope de Pollo | $19 |
-| Sope de Chorizo | $17 |
-| Huarache de Chorizo | $17 |
-| Huarache de Nopales | $17 |
-| Tlacoyo de Frijol | $17 |
-| Tlacoyo de Haba | $17 |
-| Tlacoyo de Requesón | $17 |
-| Molotes de Papa | $17 |
-| Molotes de Tinga | $17 |
-| Empanada de Picadillo | $15 |
-| Empanada de Tinga | $15 |
-| Flautas de Pollo | $17 |
-| Flautas de Res | $17 |
-| Flautas de Papa | $17 |
-| Dorados de Barbacoa | $17 |
-| Dorados de Pollo | $17 |
-| Dorados de Papa | $17 |
+| Quesadilla de Papa | $2 |
+| Quesadilla de Tinga | $2 |
+| Quesadilla de Flor | $2 |
+| Quesadilla de Champiñones | $2 |
+| Quesadilla de Chicharrón | $2 |
+| Quesadilla Sola | $2 |
+| Quesadilla de Sesos | $3 |
+| Frita de Papa | $3 |
+| Frita de Picadillo | $3 |
+| Gordita de Chicharrón | $3 |
+| Gordita de Requesón | $2 |
+| Sope Sencillo | $3 |
+| Sope de Pollo | $4 |
+| Sope de Chorizo | $3 |
+| Huarache de Chorizo | $3 |
+| Huarache de Nopales | $3 |
+| Tlacoyo de Frijol | $3 |
+| Tlacoyo de Haba | $3 |
+| Tlacoyo de Requesón | $3 |
+| Molotes de Papa | $3 |
+| Molotes de Tinga | $3 |
+| Empanada de Picadillo | $2 |
+| Empanada de Tinga | $2 |
+| Flautas de Pollo | $3 |
+| Flautas de Res | $3 |
+| Flautas de Papa | $3 |
+| Dorados de Barbacoa | $3 |
+| Dorados de Pollo | $3 |
+| Dorados de Papa | $3 |
 
 </details>
 
 <details>
-<summary><b>🥖 Tortería</b> — 16 recetas · de $35 a $43 · se desbloquea con $2,700</summary>
+<summary><b>🥖 Tortería</b> — 16 recetas · de $4 a $6 · se desbloquea con $2,700</summary>
 
 Tortas armadas capa por capa: milanesa, pierna, jamón, cubana, suiza, hawaiana, ahogadas, cemitas poblanas y pambazos.
 
@@ -321,27 +328,27 @@ Tortas armadas capa por capa: milanesa, pierna, jamón, cubana, suiza, hawaiana,
 
 | Platillo | Precio |
 |---|---|
-| Torta de Jamón | $39 |
-| Torta de Salchicha | $39 |
-| Torta de Huevo | $39 |
-| Torta de Pierna | $39 |
-| Torta de Milanesa | $43 |
-| Torta Cubana | $43 |
-| Torta Suiza | $39 |
-| Torta Hawaiana | $39 |
-| Torta Ahogada | $39 |
-| Ahogada Media | $35 |
-| Cemita Poblana | $39 |
-| Cemita de Pierna | $39 |
-| Pambazo | $39 |
-| Pambazo con Chipotle | $39 |
-| Milanesa y Refresco | $39 |
-| Suiza con Jamaica | $39 |
+| Torta de Jamón | $5 |
+| Torta de Salchicha | $5 |
+| Torta de Huevo | $5 |
+| Torta de Pierna | $5 |
+| Torta de Milanesa | $6 |
+| Torta Cubana | $6 |
+| Torta Suiza | $5 |
+| Torta Hawaiana | $5 |
+| Torta Ahogada | $5 |
+| Ahogada Media | $4 |
+| Cemita Poblana | $5 |
+| Cemita de Pierna | $5 |
+| Pambazo | $5 |
+| Pambazo con Chipotle | $5 |
+| Milanesa y Refresco | $5 |
+| Suiza con Jamaica | $5 |
 
 </details>
 
 <details>
-<summary><b>🥩 Carnitas</b> — 15 recetas · de $3 a $12 · se desbloquea con $3,000</summary>
+<summary><b>🥩 Carnitas</b> — 15 recetas · de $1 a $3 · se desbloquea con $3,000</summary>
 
 Cazo de cobre con maciza, cuerito, buche, nana y surtida, por taco, torta o por kilo.
 
@@ -356,26 +363,26 @@ Cazo de cobre con maciza, cuerito, buche, nana y surtida, por taco, torta o por 
 
 | Platillo | Precio |
 |---|---|
-| Taco de Maciza | $11 |
-| Taco de Cuerito | $11 |
-| Taco de Buche | $11 |
-| Taco de Nana | $11 |
-| Taco Surtido | $11 |
-| Surtido con Todo | $12 |
-| Maciza con Guacamole | $10 |
-| Chicharrón en Salsa | $10 |
-| Torta de Carnitas | $3 |
-| Torta de Cuerito | $3 |
-| Medio Kilo de Maciza | $11 |
-| Kilo Surtido | $12 |
-| Maciza y Refresco | $11 |
-| Buche y Jamaica | $11 |
-| Surtido con Horchata | $11 |
+| Taco de Maciza | $2 |
+| Taco de Cuerito | $2 |
+| Taco de Buche | $2 |
+| Taco de Nana | $2 |
+| Taco Surtido | $2 |
+| Surtido con Todo | $3 |
+| Maciza con Guacamole | $1 |
+| Chicharrón en Salsa | $1 |
+| Torta de Carnitas | $1 |
+| Torta de Cuerito | $1 |
+| Medio Kilo de Maciza | $2 |
+| Kilo Surtido | $3 |
+| Maciza y Refresco | $2 |
+| Buche y Jamaica | $2 |
+| Surtido con Horchata | $2 |
 
 </details>
 
 <details>
-<summary><b>🍜 Birriería</b> — 13 recetas · de $12 a $14 · se desbloquea con $3,600</summary>
+<summary><b>🍜 Birriería</b> — 13 recetas · de $2 a $4 · se desbloquea con $3,600</summary>
 
 Birria, quesabirrias, barbacoa y consomé bien calientito.
 
@@ -390,24 +397,24 @@ Birria, quesabirrias, barbacoa y consomé bien calientito.
 
 | Platillo | Precio |
 |---|---|
-| Taco de Birria | $13 |
-| Quesabirria | $13 |
-| Quesabirria con Consome | $13 |
-| Quesabirria Picosa | $12 |
-| Taco de Barbacoa | $13 |
-| Barbacoa con Consome | $13 |
-| Consome de Birria | $13 |
-| Consome de Barbacoa | $13 |
-| Plato de Birria | $14 |
-| Plato de Barbacoa | $14 |
-| Birria con Guacamole | $12 |
-| Barbacoa y Refresco | $13 |
-| Quesabirria y Jamaica | $13 |
+| Taco de Birria | $3 |
+| Quesabirria | $3 |
+| Quesabirria con Consome | $3 |
+| Quesabirria Picosa | $2 |
+| Taco de Barbacoa | $3 |
+| Barbacoa con Consome | $3 |
+| Consome de Birria | $3 |
+| Consome de Barbacoa | $3 |
+| Plato de Birria | $4 |
+| Plato de Barbacoa | $4 |
+| Birria con Guacamole | $2 |
+| Barbacoa y Refresco | $3 |
+| Quesabirria y Jamaica | $3 |
 
 </details>
 
 <details>
-<summary><b>🍗 al Carbón</b> — 16 recetas · de $60 a $66 · se desbloquea con $4,600</summary>
+<summary><b>🍗 al Carbón</b> — 16 recetas · de $8 a $9 · se desbloquea con $4,600</summary>
 
 Asador con pollos rostizados y al carbón, alitas, boneless, costillas y parrilladas con sus salsas.
 
@@ -422,27 +429,27 @@ Asador con pollos rostizados y al carbón, alitas, boneless, costillas y parrill
 
 | Platillo | Precio |
 |---|---|
-| Pollo Rostizado | $60 |
-| Pollo al Carbón | $60 |
-| Pollo con Arroz | $60 |
-| Pollo y Papas | $60 |
-| Alitas Bufalo | $60 |
-| Alitas Bbq | $60 |
-| Alitas Mango Habanero | $60 |
-| Alitas Lemon Pepper | $60 |
-| Boneless Bbq | $60 |
-| Boneless Bufalo | $60 |
-| Boneless de Tamarindo | $60 |
-| Costillas Bbq | $60 |
-| Costillas al Tamarindo | $60 |
-| Parrillada Callejera | $66 |
-| Parrillada Completa | $66 |
-| Alitas y Refresco | $60 |
+| Pollo Rostizado | $8 |
+| Pollo al Carbón | $8 |
+| Pollo con Arroz | $8 |
+| Pollo y Papas | $8 |
+| Alitas Bufalo | $8 |
+| Alitas Bbq | $8 |
+| Alitas Mango Habanero | $8 |
+| Alitas Lemon Pepper | $8 |
+| Boneless Bbq | $8 |
+| Boneless Bufalo | $8 |
+| Boneless de Tamarindo | $8 |
+| Costillas Bbq | $8 |
+| Costillas al Tamarindo | $8 |
+| Parrillada Callejera | $9 |
+| Parrillada Completa | $9 |
+| Alitas y Refresco | $8 |
 
 </details>
 
 <details>
-<summary><b>🌭 Jochos y Burgers</b> — 15 recetas · de $25 a $31 · se desbloquea con $5,000</summary>
+<summary><b>🌭 Jochos y Burgers</b> — 15 recetas · de $3 a $5 · se desbloquea con $5,000</summary>
 
 Jochos con tocino, hamburguesas al carbón, banderillas y salchipulpos con papas.
 
@@ -457,26 +464,26 @@ Jochos con tocino, hamburguesas al carbón, banderillas y salchipulpos con papas
 
 | Platillo | Precio |
 |---|---|
-| Jocho Sencillo | $25 |
-| Jocho con Tocino | $31 |
-| Jocho Norteño | $31 |
-| Jocho Hawaiano | $28 |
-| Hamburguesa Sencilla | $28 |
-| Hamburguesa con Queso | $28 |
-| Hamburguesa con Tocino | $28 |
-| Hamburguesa Hawaiana | $28 |
-| Hamburguesa al Chipotle | $28 |
-| Banderilla de Salchicha | $25 |
-| Banderilla de Queso | $25 |
-| Salchipulpos con Papas | $25 |
-| Salchipulpos Picosos | $25 |
-| Combo Jocho | $31 |
-| Combo Hamburguesa | $31 |
+| Jocho Sencillo | $3 |
+| Jocho con Tocino | $5 |
+| Jocho Norteño | $5 |
+| Jocho Hawaiano | $4 |
+| Hamburguesa Sencilla | $4 |
+| Hamburguesa con Queso | $4 |
+| Hamburguesa con Tocino | $4 |
+| Hamburguesa Hawaiana | $4 |
+| Hamburguesa al Chipotle | $4 |
+| Banderilla de Salchicha | $3 |
+| Banderilla de Queso | $3 |
+| Salchipulpos con Papas | $3 |
+| Salchipulpos Picosos | $3 |
+| Combo Jocho | $5 |
+| Combo Hamburguesa | $5 |
 
 </details>
 
 <details>
-<summary><b>🦐 Mariscos</b> — 15 recetas · de $44 a $48 · se desbloquea con $6,500</summary>
+<summary><b>🦐 Mariscos</b> — 15 recetas · de $6 a $7 · se desbloquea con $6,500</summary>
 
 Cocteles de camarón y pulpo, tostadas de ceviche, aguachiles y pescadillas frente al mar.
 
@@ -492,26 +499,26 @@ Cocteles de camarón y pulpo, tostadas de ceviche, aguachiles y pescadillas fren
 
 | Platillo | Precio |
 |---|---|
-| Coctel de Camarón | $48 |
-| Coctel Campechano | $48 |
-| Coctel de Pulpo | $44 |
-| Coctel Picoso | $44 |
-| Coctel con Galletas | $44 |
-| Tostada de Ceviche | $48 |
-| Tostada de Camarón | $44 |
-| Tostada de Pulpo | $44 |
-| Tostada Mixta | $44 |
-| Ceviche con Tostadas | $44 |
-| Aguachile Verde | $44 |
-| Aguachile Negro | $44 |
-| Aguachile Rojo | $44 |
-| Pescadillas | $44 |
-| Pescadillas con Aguacate | $44 |
+| Coctel de Camarón | $7 |
+| Coctel Campechano | $7 |
+| Coctel de Pulpo | $6 |
+| Coctel Picoso | $6 |
+| Coctel con Galletas | $6 |
+| Tostada de Ceviche | $7 |
+| Tostada de Camarón | $6 |
+| Tostada de Pulpo | $6 |
+| Tostada Mixta | $6 |
+| Ceviche con Tostadas | $6 |
+| Aguachile Verde | $6 |
+| Aguachile Negro | $6 |
+| Aguachile Rojo | $6 |
+| Pescadillas | $6 |
+| Pescadillas con Aguacate | $6 |
 
 </details>
 
 <details>
-<summary><b>⚖️ Tortillería</b> — 6 recetas · de $18 a $34 · se desbloquea con $1,200</summary>
+<summary><b>⚖️ Tortillería</b> — 6 recetas · de $2 a $4 · se desbloquea con $1,200</summary>
 
 Venta por kilo con báscula: la tortilladora trabaja sin parar y tú pesas un cuarto, medio kilo o un kilo. Tortilla amarilla y blanca toda la semana, masa amarilla y blanca, y tortilla y masa azul solo sábado y domingo. Si das de más pierdes; si das de menos compensas.
 
@@ -523,19 +530,19 @@ Venta por kilo con báscula: la tortilladora trabaja sin parar y tú pesas un cu
 
 | Platillo | Precio |
 |---|---|
-| Tortilla Amarilla Por Kilo | $24 |
-| Tortilla Blanca Por Kilo | $24 |
-| Masa Amarilla Por Kilo | $18 |
-| Masa Blanca Por Kilo | $18 |
-| Tortilla Azul - Fin de Semana | $34 |
-| Masa Azul - Fin de Semana | $26 |
+| Tortilla Amarilla Por Kilo | $3 |
+| Tortilla Blanca Por Kilo | $3 |
+| Masa Amarilla Por Kilo | $2 |
+| Masa Blanca Por Kilo | $2 |
+| Tortilla Azul - Fin de Semana | $4 |
+| Masa Azul - Fin de Semana | $3 |
 
 </details>
 
 ### 🍿 Botanas (3 puestos)
 
 <details>
-<summary><b>🌽 Elotero</b> — 21 recetas · de $20 a $24 · se desbloquea con $1,100</summary>
+<summary><b>🌽 Elotero</b> — 21 recetas · de $3 a $5 · se desbloquea con $1,100</summary>
 
 Carrito elotero: elotes, elotes asados, esquites, trolelotes, chaskas y sopa con esquite.
 
@@ -550,32 +557,32 @@ Carrito elotero: elotes, elotes asados, esquites, trolelotes, chaskas y sopa con
 
 | Platillo | Precio |
 |---|---|
-| Elote con Limón y Sal | $20 |
-| Elote Sencillo | $20 |
-| Esquite Sencillo | $20 |
-| Asado con Crema | $20 |
-| Elote Clásico | $22 |
-| Esquite Clásico | $22 |
-| Elote Asado | $20 |
-| Esquite Picoso | $22 |
-| Esquite Cremoso | $20 |
-| Esquite de Epazote | $20 |
-| Asado con Todo | $22 |
-| Elote Preparado | $24 |
-| Elote y Refresco | $22 |
-| Esquite con Tamarindo | $22 |
-| Asado con Naranjada | $20 |
-| Trolelote | $22 |
-| Trolelote con Limón | $22 |
-| Chaska | $24 |
-| Chaska con Chilito | $22 |
-| Sopa con Esquite | $22 |
-| Sopa Preparada | $22 |
+| Elote con Limón y Sal | $3 |
+| Elote Sencillo | $3 |
+| Esquite Sencillo | $3 |
+| Asado con Crema | $3 |
+| Elote Clásico | $4 |
+| Esquite Clásico | $4 |
+| Elote Asado | $3 |
+| Esquite Picoso | $4 |
+| Esquite Cremoso | $3 |
+| Esquite de Epazote | $3 |
+| Asado con Todo | $4 |
+| Elote Preparado | $5 |
+| Elote y Refresco | $4 |
+| Esquite con Tamarindo | $4 |
+| Asado con Naranjada | $3 |
+| Trolelote | $4 |
+| Trolelote con Limón | $4 |
+| Chaska | $5 |
+| Chaska con Chilito | $4 |
+| Sopa con Esquite | $4 |
+| Sopa Preparada | $4 |
 
 </details>
 
 <details>
-<summary><b>🥨 Botanero</b> — 15 recetas · de $25 a $34 · se desbloquea con $3,600</summary>
+<summary><b>🥨 Botanero</b> — 15 recetas · de $3 a $6 · se desbloquea con $3,600</summary>
 
 Fritulocos, totolocos, chicharrón de harina preparado, papas con limón y cacahuates japoneses, salados y enchilados.
 
@@ -591,26 +598,26 @@ Fritulocos, totolocos, chicharrón de harina preparado, papas con limón y cacah
 
 | Platillo | Precio |
 |---|---|
-| Fritulocos | $31 |
-| Fritulocos Dulces | $31 |
-| Totolocos | $31 |
-| Totolocos con Queso | $28 |
-| Chicharrón Preparado | $28 |
-| Chicharrón con Todo | $34 |
-| Chicharrón Sencillo | $25 |
-| Papas con Limón y Salsa | $25 |
-| Papas Enchiladas | $25 |
-| Papas Preparadas | $28 |
-| Cacahuates Japoneses | $25 |
-| Cacahuates Salados | $25 |
-| Cacahuates Enchilados | $28 |
-| Gomitas Enchiladas | $25 |
-| Bolsita Mixta | $28 |
+| Fritulocos | $5 |
+| Fritulocos Dulces | $5 |
+| Totolocos | $5 |
+| Totolocos con Queso | $4 |
+| Chicharrón Preparado | $4 |
+| Chicharrón con Todo | $6 |
+| Chicharrón Sencillo | $3 |
+| Papas con Limón y Salsa | $3 |
+| Papas Enchiladas | $3 |
+| Papas Preparadas | $4 |
+| Cacahuates Japoneses | $3 |
+| Cacahuates Salados | $3 |
+| Cacahuates Enchilados | $4 |
+| Gomitas Enchiladas | $3 |
+| Bolsita Mixta | $4 |
 
 </details>
 
 <details>
-<summary><b>🍉 Frutería</b> — 15 recetas · de $25 a $31 · se desbloquea con $2,200</summary>
+<summary><b>🍉 Frutería</b> — 15 recetas · de $3 a $5 · se desbloquea con $2,200</summary>
 
 Vasos de fruta con limón, sal y chile, vasos locos con gomitas y chamoy, y cocteles con yogurt, granola y miel.
 
@@ -624,28 +631,28 @@ Vasos de fruta con limón, sal y chile, vasos locos con gomitas y chamoy, y coct
 
 | Platillo | Precio |
 |---|---|
-| Vaso de Mango | $25 |
-| Vaso de Jícama | $28 |
-| Pepino con Chile | $28 |
-| Sandía con Limón | $25 |
-| Fruta Mixta | $31 |
-| Vaso de Coco | $25 |
-| Mango con Chamoy | $28 |
-| Melón y Papaya | $25 |
-| Vaso Loco | $31 |
-| Vaso Loco de Mango | $28 |
-| Vaso Loco de Sandía | $28 |
-| Coctel de Frutas | $31 |
-| Coctel con Yogurt | $28 |
-| Coctel Tropical | $31 |
-| Fresas con Yogurt | $25 |
+| Vaso de Mango | $3 |
+| Vaso de Jícama | $4 |
+| Pepino con Chile | $4 |
+| Sandía con Limón | $3 |
+| Fruta Mixta | $5 |
+| Vaso de Coco | $3 |
+| Mango con Chamoy | $4 |
+| Melón y Papaya | $3 |
+| Vaso Loco | $5 |
+| Vaso Loco de Mango | $4 |
+| Vaso Loco de Sandía | $4 |
+| Coctel de Frutas | $5 |
+| Coctel con Yogurt | $4 |
+| Coctel Tropical | $5 |
+| Fresas con Yogurt | $3 |
 
 </details>
 
 ### 🍰 Postres (9 puestos)
 
 <details>
-<summary><b>🍠 Camotero</b> — 13 recetas · de $20 a $20 · se desbloquea con $2,400</summary>
+<summary><b>🍠 Camotero</b> — 13 recetas · de $3 a $3 · se desbloquea con $2,400</summary>
 
 Carrito camotero con su silbato: camotes y plátanos horneados y plátanos fritos con crema y queso.
 
@@ -659,24 +666,24 @@ Carrito camotero con su silbato: camotes y plátanos horneados y plátanos frito
 
 | Platillo | Precio |
 |---|---|
-| Camote con Leche | $20 |
-| Camote con Mermelada | $20 |
-| Camote con Todo | $20 |
-| Camote con Cajeta | $20 |
-| Camote con Miel | $20 |
-| Plátano Horneado | $20 |
-| Plátano con Mermelada | $20 |
-| Plátano con Canela | $20 |
-| Plátanos Fritos | $20 |
-| Plátanos Fritos Dulces | $20 |
-| Plátanos con Todo | $20 |
-| Camote y Café de Olla | $20 |
-| Plátano y Champurrado | $20 |
+| Camote con Leche | $3 |
+| Camote con Mermelada | $3 |
+| Camote con Todo | $3 |
+| Camote con Cajeta | $3 |
+| Camote con Miel | $3 |
+| Plátano Horneado | $3 |
+| Plátano con Mermelada | $3 |
+| Plátano con Canela | $3 |
+| Plátanos Fritos | $3 |
+| Plátanos Fritos Dulces | $3 |
+| Plátanos con Todo | $3 |
+| Camote y Café de Olla | $3 |
+| Plátano y Champurrado | $3 |
 
 </details>
 
 <details>
-<summary><b>🍩 Churrería</b> — 19 recetas · de $12 a $13 · se desbloquea con $3,300</summary>
+<summary><b>🍩 Churrería</b> — 19 recetas · de $2 a $2 · se desbloquea con $3,300</summary>
 
 Churros azucarados y rellenos, donas, buñuelos, gorditas de nata, waffles en palo y hot cakes.
 
@@ -690,30 +697,30 @@ Churros azucarados y rellenos, donas, buñuelos, gorditas de nata, waffles en pa
 
 | Platillo | Precio |
 |---|---|
-| Churros Azucarados | $12 |
-| Churro de Cajeta | $12 |
-| Churro de Chocolate | $12 |
-| Churro de Leche Condensada | $12 |
-| Churro de Fresa | $12 |
-| Churros con Chocolate | $12 |
-| Dona con Chispas | $13 |
-| Dona de Chocolate | $13 |
-| Dona Espolvoreada | $13 |
-| Donas y Café | $13 |
-| Buñuelo con Miel | $12 |
-| Buñuelo Azucarado | $12 |
-| Gorditas de Nata | $12 |
-| Nata con Cajeta | $12 |
-| Waffle con Chocolate | $12 |
-| Waffle de Avellana | $12 |
-| Hot Cakes Mini | $12 |
-| Hot Cakes con Cajeta | $12 |
-| Hot Cakes de Chocolate | $12 |
+| Churros Azucarados | $2 |
+| Churro de Cajeta | $2 |
+| Churro de Chocolate | $2 |
+| Churro de Leche Condensada | $2 |
+| Churro de Fresa | $2 |
+| Churros con Chocolate | $2 |
+| Dona con Chispas | $2 |
+| Dona de Chocolate | $2 |
+| Dona Espolvoreada | $2 |
+| Donas y Café | $2 |
+| Buñuelo con Miel | $2 |
+| Buñuelo Azucarado | $2 |
+| Gorditas de Nata | $2 |
+| Nata con Cajeta | $2 |
+| Waffle con Chocolate | $2 |
+| Waffle de Avellana | $2 |
+| Hot Cakes Mini | $2 |
+| Hot Cakes con Cajeta | $2 |
+| Hot Cakes de Chocolate | $2 |
 
 </details>
 
 <details>
-<summary><b>🧺 Pan de Canasta</b> — 20 recetas · de $10 a $11 · se desbloquea con $4,200</summary>
+<summary><b>🧺 Pan de Canasta</b> — 20 recetas · de $1 a $2 · se desbloquea con $4,200</summary>
 
 Canasta de pan dulce: conchas, cuernitos, orejas, mantecadas, ojos de buey, garibaldis, pan de feria, pan de muerto y rosca de reyes.
 
@@ -728,31 +735,31 @@ Canasta de pan dulce: conchas, cuernitos, orejas, mantecadas, ojos de buey, gari
 
 | Platillo | Precio |
 |---|---|
-| Concha de Vainilla | $10 |
-| Concha de Chocolate | $10 |
-| Concha con Café | $10 |
-| Cuernito con Chocolate | $10 |
-| Orejas | $10 |
-| Ojo de Buey | $10 |
-| Mantecada con Atole | $10 |
-| Pan de Feria de Nuez | $10 |
-| Pan de Feria de Crema | $10 |
-| Pan de Feria con Café | $10 |
-| Dona y Champurrado | $10 |
-| Merienda Completa | $10 |
-| Dos Conchas | $10 |
-| Bolsa Surtida | $11 |
-| Garibaldis | $10 |
-| Desayuno de Canasta | $11 |
-| Pan de Muerto | $10 |
-| Pan de Muerto con Chocolate | $10 |
-| Rosca de Reyes | $10 |
-| Rosca con Chocolate | $10 |
+| Concha de Vainilla | $1 |
+| Concha de Chocolate | $1 |
+| Concha con Café | $1 |
+| Cuernito con Chocolate | $1 |
+| Orejas | $1 |
+| Ojo de Buey | $1 |
+| Mantecada con Atole | $1 |
+| Pan de Feria de Nuez | $1 |
+| Pan de Feria de Crema | $1 |
+| Pan de Feria con Café | $1 |
+| Dona y Champurrado | $1 |
+| Merienda Completa | $1 |
+| Dos Conchas | $1 |
+| Bolsa Surtida | $2 |
+| Garibaldis | $1 |
+| Desayuno de Canasta | $2 |
+| Pan de Muerto | $1 |
+| Pan de Muerto con Chocolate | $1 |
+| Rosca de Reyes | $1 |
+| Rosca con Chocolate | $1 |
 
 </details>
 
 <details>
-<summary><b>🧇 Marquesitas</b> — 16 recetas · de $30 a $33 · se desbloquea con $4,600</summary>
+<summary><b>🧇 Marquesitas</b> — 16 recetas · de $4 a $5 · se desbloquea con $4,600</summary>
 
 Marquesitas con queso de bola y crepas dulces y saladas hechas en la plancha.
 
@@ -767,27 +774,27 @@ Marquesitas con queso de bola y crepas dulces y saladas hechas en la plancha.
 
 | Platillo | Precio |
 |---|---|
-| Marquesita de Queso | $30 |
-| Marquesita de Avellana | $30 |
-| Queso y Avellana | $30 |
-| Marquesita de Cajeta | $30 |
-| Marquesita de Mermelada | $30 |
-| Marquesita de Plátano | $30 |
-| Crepa de Fresa | $30 |
-| Crepa de Plátano | $30 |
-| Crepa de Cajeta y Nuez | $30 |
-| Crepa de Chocolate | $30 |
-| Crepa de Jamón y Queso | $30 |
-| Crepa de Champiñones | $30 |
-| Crepa de Pollo | $30 |
-| Crepa de Espinaca | $30 |
-| Crepa de Elote | $33 |
-| Crepa y Café | $30 |
+| Marquesita de Queso | $4 |
+| Marquesita de Avellana | $4 |
+| Queso y Avellana | $4 |
+| Marquesita de Cajeta | $4 |
+| Marquesita de Mermelada | $4 |
+| Marquesita de Plátano | $4 |
+| Crepa de Fresa | $4 |
+| Crepa de Plátano | $4 |
+| Crepa de Cajeta y Nuez | $4 |
+| Crepa de Chocolate | $4 |
+| Crepa de Jamón y Queso | $4 |
+| Crepa de Champiñones | $4 |
+| Crepa de Pollo | $4 |
+| Crepa de Espinaca | $4 |
+| Crepa de Elote | $5 |
+| Crepa y Café | $4 |
 
 </details>
 
 <details>
-<summary><b>🍦 Nevería</b> — 18 recetas · de $20 a $20 · se desbloquea con $5,400</summary>
+<summary><b>🍦 Nevería</b> — 18 recetas · de $3 a $3 · se desbloquea con $5,400</summary>
 
 Nieves de garrafa (limón, mamey, beso de ángel, nuez, queso...), paletas de hielo y esquimales.
 
@@ -801,29 +808,29 @@ Nieves de garrafa (limón, mamey, beso de ángel, nuez, queso...), paletas de hi
 
 | Platillo | Precio |
 |---|---|
-| Nieve de Limón | $20 |
-| Nieve de Mamey | $20 |
-| Beso de Angel | $20 |
-| Nieve de Nuez | $20 |
-| Nieve de Queso | $20 |
-| Fresa y Vainilla | $20 |
-| Napolitano | $20 |
-| Mango con Chile | $20 |
-| Nieve de Tamarindo | $20 |
-| Cono con Chispas | $20 |
-| Limón y Mamey | $20 |
-| Vasito con Cajeta | $20 |
-| Paleta de Limón | $20 |
-| Paleta de Fresa | $20 |
-| Paleta de Mango Enchilada | $20 |
-| Esquimal de Coco | $20 |
-| Esquimal de Nuez | $20 |
-| Esquimal de Fresa | $20 |
+| Nieve de Limón | $3 |
+| Nieve de Mamey | $3 |
+| Beso de Angel | $3 |
+| Nieve de Nuez | $3 |
+| Nieve de Queso | $3 |
+| Fresa y Vainilla | $3 |
+| Napolitano | $3 |
+| Mango con Chile | $3 |
+| Nieve de Tamarindo | $3 |
+| Cono con Chispas | $3 |
+| Limón y Mamey | $3 |
+| Vasito con Cajeta | $3 |
+| Paleta de Limón | $3 |
+| Paleta de Fresa | $3 |
+| Paleta de Mango Enchilada | $3 |
+| Esquimal de Coco | $3 |
+| Esquimal de Nuez | $3 |
+| Esquimal de Fresa | $3 |
 
 </details>
 
 <details>
-<summary><b>🍧 Raspados</b> — 14 recetas · de $20 a $22 · se desbloquea con $5,800</summary>
+<summary><b>🍧 Raspados</b> — 14 recetas · de $3 a $4 · se desbloquea con $5,800</summary>
 
 Raspados de grosella, tamarindo, limón, rompope y más; diablitos y chamoyadas.
 
@@ -837,25 +844,25 @@ Raspados de grosella, tamarindo, limón, rompope y más; diablitos y chamoyadas.
 
 | Platillo | Precio |
 |---|---|
-| Raspado de Grosella | $20 |
-| Raspado de Tamarindo | $20 |
-| Raspado de Limón | $20 |
-| Raspado de Rompope | $20 |
-| Vainilla con Leche | $20 |
-| Fresa con Leche | $20 |
-| Raspado de Nanche | $20 |
-| Raspado Mixto | $20 |
-| Fresa y Mango | $20 |
-| Diablito | $22 |
-| Diablito con Nieve | $22 |
-| Chamoyada de Mango | $22 |
-| Chamoyada Loca | $22 |
-| Chamoyada de Tamarindo | $22 |
+| Raspado de Grosella | $3 |
+| Raspado de Tamarindo | $3 |
+| Raspado de Limón | $3 |
+| Raspado de Rompope | $3 |
+| Vainilla con Leche | $3 |
+| Fresa con Leche | $3 |
+| Raspado de Nanche | $3 |
+| Raspado Mixto | $3 |
+| Fresa y Mango | $3 |
+| Diablito | $4 |
+| Diablito con Nieve | $4 |
+| Chamoyada de Mango | $4 |
+| Chamoyada Loca | $4 |
+| Chamoyada de Tamarindo | $4 |
 
 </details>
 
 <details>
-<summary><b>🍭 Dulces de Feria</b> — 21 recetas · de $15 a $15 · se desbloquea con $7,500</summary>
+<summary><b>🍭 Dulces de Feria</b> — 21 recetas · de $2 a $2 · se desbloquea con $7,500</summary>
 
 Algodones de azúcar, manzanas acarameladas y con chamoy, palomitas, alegrías, palanquetas, pepitorias, arroz con leche, gelatinas, flanes y fresas con crema.
 
@@ -870,32 +877,32 @@ Algodones de azúcar, manzanas acarameladas y con chamoy, palomitas, alegrías, 
 
 | Platillo | Precio |
 |---|---|
-| Algodón Rosa | $15 |
-| Algodón Azul | $15 |
-| Manzana Acaramelada | $15 |
-| Manzana con Chamoy | $15 |
-| Manzana Enchilada | $15 |
-| Palomitas de Mantequilla | $15 |
-| Palomitas Acarameladas | $15 |
-| Palomitas Enchiladas | $15 |
-| Palomitas Preparadas | $15 |
-| Palomitas y Refresco | $15 |
-| Alegría | $15 |
-| Palanqueta | $15 |
-| Pepitoria | $15 |
-| Arroz con Leche | $15 |
-| Arroz con Leche y Nuez | $15 |
-| Gelatina | $15 |
-| Gelatina con Crema | $15 |
-| Flan Napolitano | $15 |
-| Flan con Caramelo | $15 |
-| Fresas con Crema | $15 |
-| Fresas con Chispas | $15 |
+| Algodón Rosa | $2 |
+| Algodón Azul | $2 |
+| Manzana Acaramelada | $2 |
+| Manzana con Chamoy | $2 |
+| Manzana Enchilada | $2 |
+| Palomitas de Mantequilla | $2 |
+| Palomitas Acarameladas | $2 |
+| Palomitas Enchiladas | $2 |
+| Palomitas Preparadas | $2 |
+| Palomitas y Refresco | $2 |
+| Alegría | $2 |
+| Palanqueta | $2 |
+| Pepitoria | $2 |
+| Arroz con Leche | $2 |
+| Arroz con Leche y Nuez | $2 |
+| Gelatina | $2 |
+| Gelatina con Crema | $2 |
+| Flan Napolitano | $2 |
+| Flan con Caramelo | $2 |
+| Fresas con Crema | $2 |
+| Fresas con Chispas | $2 |
 
 </details>
 
 <details>
-<summary><b>🍬 Dulcería</b> — 17 recetas · de $10 a $11 · se desbloquea con $2,600</summary>
+<summary><b>🍬 Dulcería</b> — 17 recetas · de $1 a $2 · se desbloquea con $2,600</summary>
 
 Dulces típicos mexicanos: mazapanes, obleas, cocadas, borrachitos, jamoncillos, glorias, ate, muéganos, tamarindo enchilado y más.
 
@@ -910,28 +917,28 @@ Dulces típicos mexicanos: mazapanes, obleas, cocadas, borrachitos, jamoncillos,
 
 | Platillo | Precio |
 |---|---|
-| Bolsita de Mazapanes | $10 |
-| Obleas con Cajeta | $10 |
-| Cocadas | $10 |
-| Borrachitos | $10 |
-| Jamoncillos | $10 |
-| Glorias | $10 |
-| Ate de Membrillo | $10 |
-| Muéganos | $10 |
-| Tamarindo Enchilado | $10 |
-| Paleta Enchilada | $10 |
-| Dulces Típicos | $10 |
-| Camotes Poblanos | $10 |
-| Bolsita Surtida | $11 |
-| Bolsita Picosa | $11 |
-| Charola de La Abuela | $11 |
-| Dulces de Fiesta | $11 |
-| Calabaza en Tacha | $10 |
+| Bolsita de Mazapanes | $1 |
+| Obleas con Cajeta | $1 |
+| Cocadas | $1 |
+| Borrachitos | $1 |
+| Jamoncillos | $1 |
+| Glorias | $1 |
+| Ate de Membrillo | $1 |
+| Muéganos | $1 |
+| Tamarindo Enchilado | $1 |
+| Paleta Enchilada | $1 |
+| Dulces Típicos | $1 |
+| Camotes Poblanos | $1 |
+| Bolsita Surtida | $2 |
+| Bolsita Picosa | $2 |
+| Charola de La Abuela | $2 |
+| Dulces de Fiesta | $2 |
+| Calabaza en Tacha | $1 |
 
 </details>
 
 <details>
-<summary><b>🥐 Panadería</b> — 12 recetas · de $3 a $280 · se desbloquea con $2,800</summary>
+<summary><b>🥐 Panadería</b> — 12 recetas · de $1 a $40 · se desbloquea con $2,800</summary>
 
 Panadería de verdad: eliges el pan, le pones sus ingredientes, amasas, lo horneas sin que se queme y surtes la vitrina. Los clientes entran con la campanita, toman charola y pinzas, y tú les cobras con la tabla de precios. Incluye rosca de reyes, pan de muerto y pasteles de cumpleaños por encargo.
 
@@ -944,25 +951,25 @@ Panadería de verdad: eliges el pan, le pones sus ingredientes, amasas, lo horne
 
 | Platillo | Precio |
 |---|---|
-| Concha de Vainilla | $12 |
-| Concha de Chocolate | $13 |
-| Cuernito | $10 |
-| Oreja | $9 |
-| Mantecada | $11 |
-| Ojo de Buey | $10 |
-| Garibaldi | $8 |
-| Dona | $13 |
-| Bolillo | $3 |
-| Pan de Muerto | $25 |
-| Rosca de Reyes | $150 |
-| Pastel de Cumpleaños | $280 |
+| Concha de Vainilla | $2 |
+| Concha de Chocolate | $2 |
+| Cuernito | $1 |
+| Oreja | $1 |
+| Mantecada | $2 |
+| Ojo de Buey | $2 |
+| Garibaldi | $1 |
+| Dona | $2 |
+| Bolillo | $1 |
+| Pan de Muerto | $4 |
+| Rosca de Reyes | $20 |
+| Pastel de Cumpleaños | $40 |
 
 </details>
 
-### 🥤 Bebidas (2 puestos)
+### 🥤 Bebidas (3 puestos)
 
 <details>
-<summary><b>🍹 Aguas Frescas</b> — 25 recetas · de $15 a $17 · se desbloquea con $2,000</summary>
+<summary><b>🍹 Aguas Frescas</b> — 25 recetas · de $2 a $3 · se desbloquea con $2,000</summary>
 
 Vitroleros con aguas frescas, tepache, tejuino, pozol, rusas, micheladas sin alcohol y ponche navideño.
 
@@ -977,36 +984,36 @@ Vitroleros con aguas frescas, tepache, tejuino, pozol, rusas, micheladas sin alc
 
 | Platillo | Precio |
 |---|---|
-| Agua de Horchata | $15 |
-| Horchata con Canela | $15 |
-| Agua de Jamaica | $15 |
-| Agua de Tamarindo | $15 |
-| Limón con Chia | $15 |
-| Agua de Alfalfa | $15 |
-| Agua de Pepino | $15 |
-| Agua de Melón | $15 |
-| Agua de Sandía | $15 |
-| Agua de Piña | $15 |
-| Horchata con Jamaica | $15 |
-| Agua de Fresa en Bolsita | $15 |
-| Jamaica en Bolsita | $15 |
-| Horchata en Bolsita | $15 |
-| Tepache | $15 |
-| Tepache Preparado | $15 |
-| Tejuino | $17 |
-| Tejuino con Chamoy | $17 |
-| Pozol | $15 |
-| Pozol Frio | $15 |
-| Rusa | $17 |
-| Rusa con Chamoy | $17 |
-| Michelada sin Alcohol | $17 |
-| Ponche Navideño | $15 |
-| Ponche con Fruta | $15 |
+| Agua de Horchata | $2 |
+| Horchata con Canela | $2 |
+| Agua de Jamaica | $2 |
+| Agua de Tamarindo | $2 |
+| Limón con Chia | $2 |
+| Agua de Alfalfa | $2 |
+| Agua de Pepino | $2 |
+| Agua de Melón | $2 |
+| Agua de Sandía | $2 |
+| Agua de Piña | $2 |
+| Horchata con Jamaica | $2 |
+| Agua de Fresa en Bolsita | $2 |
+| Jamaica en Bolsita | $2 |
+| Horchata en Bolsita | $2 |
+| Tepache | $2 |
+| Tepache Preparado | $2 |
+| Tejuino | $3 |
+| Tejuino con Chamoy | $3 |
+| Pozol | $2 |
+| Pozol Frio | $2 |
+| Rusa | $3 |
+| Rusa con Chamoy | $3 |
+| Michelada sin Alcohol | $3 |
+| Ponche Navideño | $2 |
+| Ponche con Fruta | $2 |
 
 </details>
 
 <details>
-<summary><b>🥕 Jugos y Licuados</b> — 16 recetas · de $25 a $28 · se desbloquea con $3,900</summary>
+<summary><b>🥕 Jugos y Licuados</b> — 16 recetas · de $3 a $4 · se desbloquea con $3,900</summary>
 
 Jugos recién exprimidos (naranja, zanahoria, betabel, verde) y licuados de plátano, fresa, chocolate, avena y mamey.
 
@@ -1020,22 +1027,101 @@ Jugos recién exprimidos (naranja, zanahoria, betabel, verde) y licuados de plá
 
 | Platillo | Precio |
 |---|---|
-| Jugo de Naranja | $25 |
-| Jugo de Zanahoria | $25 |
-| Zanahoria con Naranja | $25 |
-| Jugo de Betabel | $25 |
-| Vampiro | $25 |
-| Jugo Verde | $28 |
-| Jugo Verde con Miel | $28 |
-| Jugo de Piña | $25 |
-| Licuado de Plátano | $25 |
-| Licuado de Fresa | $25 |
-| Licuado de Chocolate | $25 |
-| Licuado de Avena | $25 |
-| Licuado de Mamey | $25 |
-| Licuado de Papaya | $25 |
-| Licuado Energético | $28 |
-| Fresa y Plátano | $25 |
+| Jugo de Naranja | $3 |
+| Jugo de Zanahoria | $3 |
+| Zanahoria con Naranja | $3 |
+| Jugo de Betabel | $3 |
+| Vampiro | $3 |
+| Jugo Verde | $4 |
+| Jugo Verde con Miel | $4 |
+| Jugo de Piña | $3 |
+| Licuado de Plátano | $3 |
+| Licuado de Fresa | $3 |
+| Licuado de Chocolate | $3 |
+| Licuado de Avena | $3 |
+| Licuado de Mamey | $3 |
+| Licuado de Papaya | $3 |
+| Licuado Energético | $4 |
+| Fresa y Plátano | $3 |
+
+</details>
+
+<details>
+<summary><b>🍺 Cantina</b> — 58 recetas · de $3 a $12 · se desbloquea con $6,800</summary>
+
+Bar de noche con micheladas, cervezas, tragos preparados, copas, botellas y botanas. Llegan clientes que piden sin cebolla o con extra, hay fiestas con DJ y, a veces, una pelea de bar que el guardia tiene que separar.
+
+**Ingredientes:**
+
+- **Vaso:** Tarro, Vaso Miche, Vaso Alto, Caballito, Copa, Jarra, Cubeta, Botella, Plato, Cestita
+- **Cerveza:** Clara, Oscura, Ambar, Light, de Trigo, Artesanal, Negra, de Barril, sin Alcohol
+- **Licor:** Tequila, Mezcal, Ron, Whisky, Vodka, Brandy, Ginebra, Sotol
+- **Mezcla:** Jugo Tomate, Sazonador, S. Inglesa, Picante, Refresco, Naranjada, Mineral, Toronja, Grosella, Hielo
+- **Encima:** Limón, Sal, Sal Gusano, Chile Polvo, Chamoy, Gomitas, Pepino, Camarón, Rodaja Naranja, Mango
+- **Botana:** Cacahuates, Chicharrón, Nachos, Cueritos, Carne Seca, Aceitunas, Queso, Pistaches, Pepitas, Japones
+
+**Recetas:**
+
+| Platillo | Precio |
+|---|---|
+| Cerveza Clara | $3 |
+| Chelada | $4 |
+| Michelada Clásica | $5 |
+| Cerveza Oscura | $3 |
+| Cerveza Ambar | $3 |
+| Cerveza Light | $3 |
+| Cerveza de Trigo | $3 |
+| Cerveza Artesanal | $3 |
+| Cerveza Negra | $3 |
+| Cerveza de Barril | $3 |
+| Cerveza sin Alcohol | $3 |
+| Chelada con Chile | $4 |
+| Michelada Oscura | $5 |
+| Michelada Picosa | $5 |
+| Michelada con Camarón | $5 |
+| Michelada con Gomitas | $5 |
+| Michelada de Mango | $5 |
+| Michelada con Pepino | $5 |
+| Michelada Ambar | $5 |
+| Michelada sin Alcohol | $4 |
+| Cubetazo | $4 |
+| Cubeta Michelada | $5 |
+| Caguama | $12 |
+| Tequila Solo | $3 |
+| Tequila con Limón y Sal | $3 |
+| Mezcal con Naranja | $3 |
+| Mezcal con Sal de Gusano | $3 |
+| Sotol Solo | $3 |
+| Ron Solo | $3 |
+| Brandy | $3 |
+| Whisky en Las Rocas | $3 |
+| Vodka con Naranja | $3 |
+| Ginebra con Mineral | $4 |
+| Cuba Libre | $4 |
+| Cuba de Whisky | $4 |
+| Paloma | $4 |
+| Tequila Sunrise | $4 |
+| Margarita | $4 |
+| Margarita de Mango | $4 |
+| Mezcalita | $4 |
+| Copa de Brandy | $3 |
+| Botella de Tequila | $12 |
+| Botella de Mezcal | $12 |
+| Botella de Ron | $12 |
+| Botella de Whisky | $12 |
+| Botella de Vodka | $12 |
+| Cacahuates | $3 |
+| Chicharrón con Limón | $3 |
+| Nachos con Queso | $3 |
+| Cueritos Picosos | $3 |
+| Carne Seca con Limón | $3 |
+| Aceitunas | $3 |
+| Pistaches | $3 |
+| Cacahuates Japoneses | $3 |
+| Pepitas con Chile | $3 |
+| Tabla de Quesos | $3 |
+| Surtido de Botanas | $4 |
+| Botana de La Casa | $4 |
 
 </details>
 
@@ -1135,7 +1221,7 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 3. En la **tienda** compras ingredientes: cada uno te dice cuántas recetas nuevas desbloquea.
 4. Ahorra para abrir **nuevos puestos**, contratar **nuevos clientes** y comprar **ropa** para ellos.
 5. Juega cada nivel en fácil, intermedio y difícil para **platinarlo**.
-6. ¡Completa los 25 puestos y las 465 recetas!
+6. ¡Completa los 26 puestos y las 529 recetas!
 
 > 💡 Los clientes te dan pistas: *"¿Cuándo va a traer suadero?"* o *"¡Debería vender gringas!"*. Hazles caso.
 
@@ -1157,20 +1243,20 @@ Música (con volumen), sonidos, vibración, dificultad, flechas de ayuda, efecto
 
 ## 🛡️ Seguridad: libre de virus
 
-La versión **3.5** se analizó en **[VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)** con **66 antivirus** (Google, Kaspersky, ESET, Avast, Bitdefender, Microsoft y más):
+La versión **5.5** se analizó en **[VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)** con **66 antivirus** (Google, Kaspersky, ESET, Avast, Bitdefender, Microsoft y más):
 
 | Resultado | Antivirus |
 |---|---|
-| ✅ Sin detecciones | **66** |
+| ✅ sin detecciones | **66** |
 | ⚠️ Sospechoso | **0** |
 | ❌ Malicioso | **0** |
 
-👉 **[Ver el reporte completo en VirusTotal](https://www.virustotal.com/gui/file/0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1)**
+👉 **[Ver el reporte completo en VirusTotal](https://www.virustotal.com/gui/file/d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8)**
 
-**Compruébalo tú mismo:** la huella SHA-256 del archivo `OraleTacos-v3.5.apk` es:
+**Compruébalo tú mismo:** la huella SHA-256 del archivo `OraleTacos-v5.5.apk` es:
 
 ```
-0a033651c5edb10ad8e924b58b10aaef173b655f17e1a49262cf75183ad0b9e1
+d4ca325a67888fca469a4aa1bd00debb37826e19ca891bd55164e14f6a3184c8
 ```
 
 Si la huella de tu descarga es igual, es exactamente el mismo archivo que se analizó. El juego **no pide** datos personales, contactos, cámara ni ubicación; solo usa internet para buscar actualizaciones, el permiso para instalar sus propias actualizaciones y la vibración para los efectos.
@@ -1220,51 +1306,263 @@ Sí. En <b>Ajustes</b> puedes elegir Fácil, Normal o Difícil, además de músi
 
 ## 📝 Novedades
 
-**v3.3**
-- ⚖️ **Nueva Tortillería:** vende por kilo con báscula y barra de peso. Tortilla y masa azul solo en fin de semana.
-- 🥐 **Nueva Panadería:** prepara la masa, hornea sin quemar, surte la vitrina y cobra con la tabla de precios. Rosca, pan de muerto y pasteles de cumpleaños por encargo.
-- 🌙 **Robo nocturno:** muy de vez en cuando, al cerrar, un ratero fuerza la cortina y se lleva 2 o 3 ingredientes que tendrás que volver a comprar.
-- 🕗 Días más largos (3 a 6 minutos) y pantalla de inicio con la hora real de tu teléfono.
-- 🪪 Pantalla de inicio rediseñada con tarjetas de monedero, vendidos, bondad, creador y versión.
-- 🗑️ Opción para borrar todos los datos con doble confirmación.
+El historial completo de cambios del juego, de la versión 2.0 a la actual. Se actualiza en cada versión.
 
-**v3.2**
-- 💸 El dinero se actualiza al instante al pagar la renta, dar cambio o sufrir un asalto.
-- 🦹 Si te niegas al asalto, o la policía llega tarde, ¡el ratero se roba el trompo de pastor!
+### v5.5 · 27/11/2026
 
-**v3.1**
-- 💲 Precios reales: el taco sencillo cuesta $8 y los más preparados $9 a $11; cada puesto tiene su precio.
-- 🧾 Llega el **cobrador de renta** antes de cerrar y cobra según lo que vendiste en el día.
-- ⚖️ Propinas, bonos y multas rebalanceados para que el progreso sea más largo.
+**Añadido**
+- 12 tipos de tortilla para tacos (6 en TORTILLA y 6 en ESPECIAL), cada una con su detalle: quemaduras, burbujas, semillas, chile, nopal, arcoíris o pasada de cocción.
+- Pedidos personales: algunos clientes piden SIN un ingrediente o CON EXTRA de otro; lo dicen en voz alta y aparece en la comanda.
 
-**v3.0**
-- 📅 Calendario de festividades mexicanas con decoración, música, personajes y platillos de temporada.
-- 🎯 30 niveles por puesto con dificultades y platino.
-- 🍬 Nuevo puesto: Dulcería. 🌈 Tortillas de colores.
-- 🚨 Asaltos, billetes falsos con plumón detector y llamadas a la policía.
-- 🧔 Don Chencho y el indicador de bondad.
-- 💵 Pagos con billetes y monedas mexicanas.
-- 🦗 Visitas especiales y patrullas.
-- 🐙 Botón de GitHub dentro del juego.
+**Cambiado**
+- La guía de pedido y la comanda usan el pedido real del cliente.
 
-**v2.3**
-- 🕗 Día completo: abres a las 8 AM y cierras a las 11 PM, con cielo de mañana, día, tarde y noche.
-- 🚪 Animación de apertura y cierre con cortina o lona según el puesto.
-- 🗣️ Clientes con personalidad que te hablan, se desesperan, te agradecen y te sugieren qué comprar.
-- 💸 Mermas al tirar y devoluciones con multa al equivocarte.
-- 🎯 Niveles con meta de ventas y resumen de ventas al cerrar.
-- 🛒 Tienda con puestos, ingredientes, clientes y ropa.
-- 🌮 Trompo de pastor con piña, cebolla, fuego y cuchillo animados.
-- 💡 Consejos cortos durante la partida y nueva pestaña inteligente.
+### v5.4 · 27/11/2026
 
-**v2.2** · Menú de ajustes, créditos, mejores indicadores y barra de paciencia.
-**v2.1** · 22 puestos, 417 recetas y logo nuevo.
-**v2.0** · Primera versión publicada.
+**Añadido**
+- Guía de pedido visible en todos los puestos y locales: la pieza que hay que servir tiene un marco que parpadea y una flecha con globo.
+- Franja PIDE con el siguiente ingrediente y su categoría, y pestañas que brillan cuando tienen algo pedido.
 
----
+### v5.3 · 27/11/2026
 
-<p align="center">
-  <img src="icon.png" width="90"><br>
-  <b>¡Órale Tacos!</b> es un juego creado por <a href="https://github.com/Disasterxz"><b>Disasterxz</b></a>.<br>
-  Hecho con cariño, pixel por pixel, en México 🇲🇽
-</p>
+**Cambiado**
+- El barril de cerveza de la cantina se rediseñó: redondo y en 3D, con duelas, aros metálicos, grifo con palanca, charola y un vaso que se llena.
+
+### v5.2 · 27/11/2026
+
+**Cambiado**
+- En la cantina ya no se cocina ni se agita el licor: se sirve al momento, con un tiempo de espera máximo de 3 segundos.
+- La botella de mezcla y las botellas individuales van lado a lado, sin encimarse.
+
+**Corregido**
+- Un tequila ya no aparece como si se estuviera cocinando en la cantina.
+- Las botellas de la mezcla ya no se encimaban.
+
+**Eliminado**
+- Se quitó la coctelera de la cantina.
+
+### v5.1 · 27/11/2026
+
+**Añadido**
+- Sección NOVEDADES en la pantalla de inicio: historial de cambios desde la v2.0, con lo añadido, cambiado, corregido y eliminado en cada versión.
+
+### v5.0 · 27/11/2026
+
+**Añadido**
+- Diálogos propios por puesto: cantina, bebidas y dulces ya no piden tacos.
+- Tocar a cualquier cliente muestra su orden y, si coincide con lo armado, se entrega al instante.
+- Cantina: cartel de lucha libre, diana con dardos, reloj de pared, neón "CERVEZA FRÍA" y guardia vigilando junto a la rockola.
+- Sprites 32x32 de vasos, cervezas, licores, mezclas, toppings y botanas de la cantina.
+
+**Cambiado**
+- Vasos nuevos: tarro, caballito y vaso alto. La cerveza lleva espuma y el limón y la sal van en el borde.
+
+**Corregido**
+- Un cliente de bebida ya no pide tacos.
+
+### v4.9 · 27/11/2026
+
+**Añadido**
+- La bebida se llena en el vaso al elegirla, con grifo y sonido, antes de entregarla.
+
+**Corregido**
+- Don Chencho ya no aparece en la cantina, bebidas ni dulces; solo en puestos de comida.
+
+**Eliminado**
+- La bebida ya no se sirve al momento de entregarla.
+
+### v4.8 · 27/11/2026
+
+**Añadido**
+- Cantina: pestaña BOTANA con cacahuates, chicharrón, nachos, cueritos, carne seca, aceitunas, quesos, pistaches y más.
+- 12 recetas de botanas, incluidos surtidos y la botana de la casa.
+
+### v4.7 · 27/11/2026
+
+**Añadido**
+- Evento de pelea en la cantina: un borracho molesta a una chica, su novio se pelea con él y el guardia los saca.
+- Complementos del mostrador según cada puesto.
+
+**Cambiado**
+- Cantina rediseñada: ventilador, neón que parpadea, tele con partido, rockola y cantinero con moño.
+
+**Corregido**
+- Las nubes del cielo ya no aparecen dentro de la cantina.
+
+### v4.6 · 27/11/2026
+
+**Añadido**
+- Taquero con gestos nuevos: saluda, se estira, pica y se abanica.
+- Tortillas, verduras y salsas con más detalle y animación.
+
+**Cambiado**
+- Pantalla de carga y recetario rediseñados.
+- Taquero con más detalles: bolígrafo, cinturón, puños y agujetas.
+
+### v4.5 · 27/11/2026
+
+**Añadido**
+- Botón PEGAR en Código secreto.
+
+### v4.4 · 27/11/2026
+
+**Añadido**
+- Botón de GitHub en Ajustes que lleva a tu perfil.
+
+**Cambiado**
+- Ajustes rediseñados: tarjetas por sección, iconos, interruptores, selectores y botones con más espacio.
+
+### v4.3 · 27/11/2026
+
+**Añadido**
+- Botón CÓDIGO SECRETO en Ajustes.
+
+### v4.2 · 27/11/2026
+
+**Añadido**
+- Texto en pantalla cuando el perro o el gato hacen ruido.
+
+**Cambiado**
+- Sonidos de perro y gato rehechos: ladrido, guau, quejido, maullido, ronroneo y bufido.
+
+**Corregido**
+- Los perros y gatos se escuchaban muy bajito y casi no sonaban.
+
+### v4.1 · 27/11/2026
+
+**Añadido**
+- Si la carne está por quemarse, se pasa sola a la zona de espera.
+
+**Cambiado**
+- Descuentos al tirar: $5 si te equivocas de ingredientes y $10 si sirves algo que el cliente no pidió.
+
+**Corregido**
+- La carne ya no se quema por descuido.
+
+**Eliminado**
+- Ya no se descuenta por carne quemada automáticamente.
+
+### v4.0 · 27/11/2026
+
+**Añadido**
+- Nuevo puesto: Cantina, de noche, con micheladas, cervezas, tragos, copas y botellas.
+- Fiestas con DJ, luces y gente bailando en la cantina.
+- Los clientes toman solos servilletas, sal, limón y salsa.
+- Perros y gatos que puedes alimentar con carne cocida o cruda.
+
+**Cambiado**
+- Horario de 6:00 a 18:30.
+
+**Corregido**
+- Si no llegas a la meta, no pasas de nivel, y se te avisa cuántas ventas faltaron.
+
+### v3.9 · 27/11/2026
+
+**Añadido**
+- Fondos distintos en cada partida: plaza comercial, tianguis, parque, mercado, barrio y escuela.
+- Clientes escolares y maestros; algunos llegan en carro, comen y se van.
+- Gente de fondo con bolsas de mandado y niños corriendo.
+
+**Cambiado**
+- Carnes de los tacos con más detalle y movimiento.
+- Música más fuerte en los tres niveles de volumen.
+
+### v3.8 · 27/11/2026
+
+**Añadido**
+- Zona de espera para dejar hasta 3 piezas ya cocidas.
+- Nuevas autoridades: Policía Municipal, Policía, Guardia Nacional y Ejército, hombres y mujeres.
+
+**Cambiado**
+- Asaltos: el ladrón aparece con pistola, los clientes gritan y corren.
+- Un cliente puede llamar a la policía o traer a un policía que te salve.
+
+### v3.7 · 27/11/2026
+
+**Añadido**
+- Botón BUSCAR ACTUALIZACIONES en Ajustes.
+
+### v3.6 · 27/11/2026
+
+**Añadido**
+- Taquero con overol, babero, cansancio y pestaña TAQUERO en la tienda.
+- Estaciones de cocción en la mayoría de los puestos, con merma si se quema.
+- Ciudad con vida: coches, gente, aviones, globos y luz que cambia durante el día.
+- Perros y gatos en la calle, hora pico y personajes nocturnos.
+- Música distinta según el ambiente.
+- La actualización obligatoria se descarga sola.
+
+**Cambiado**
+- Letras normales y legibles en todo el juego.
+- Taco desde $1, día de 6:00 a 20:00, paciencia de 30 s, billetes solo con cambio en caja.
+
+### v3.5 · 26/11/2026
+
+**Añadido**
+- Botón de TikTok en la pantalla de inicio, junto al de GitHub.
+
+### v3.4 · 26/11/2026
+
+**Añadido**
+- Metas por dificultad en modo clásico: 40, 80 y 120 ventas.
+
+**Cambiado**
+- El taco sencillo cuesta $2 y los más preparados hasta $4.
+- El día dura más para alcanzar la meta.
+
+### v3.3 · 26/11/2026
+
+**Añadido**
+- Tortillería: venta por kilo con báscula y barra de peso.
+- Panadería: masa, horno, vitrina y cobro con tabla de precios.
+- Rosca de reyes, pan de muerto y pasteles por encargo.
+- Robo nocturno: al cerrar pueden robarte 2 o 3 ingredientes.
+- Borrar todos los datos (con doble confirmación).
+
+**Cambiado**
+- Pantalla de inicio rediseñada y con la hora real de tu teléfono.
+- Días más largos.
+
+**Eliminado**
+- Se quitó el interruptor de prueba del robo nocturno.
+
+### v3.2 · 26/11/2026
+
+**Añadido**
+- Asaltos con tres opciones: entregar, negarte o llamar a la policía.
+
+**Cambiado**
+- El dinero se actualiza al instante al pagar renta, dar cambio o ser asaltado.
+
+### v3.1 · 26/11/2026
+
+**Añadido**
+- Cobrador de renta cada noche.
+
+**Cambiado**
+- Precios reales: taco sencillo $8 y los más preparados $9 a $11.
+- Propinas, bonos y multas rebalanceados.
+
+### v3.0 · 26/11/2026
+
+**Añadido**
+- Calendario mexicano con decoración, música, personajes y platillos por festividad.
+- 30 niveles por puesto en fácil, intermedio y difícil, con bono por platinar.
+- Nuevo puesto: Dulcería, y tortillas de colores.
+- Eventos sorpresa: asaltos, billetes falsos con plumón y patrullas.
+- Don Chencho y el indicador de bondad.
+- Pagos con billetes y monedas mexicanas.
+
+**Cambiado**
+- Nueva base del juego, reescrita desde cero.
+
+### v2.1 · 26/11/2026
+
+**Añadido**
+- 22 puestos en 4 categorías, 417 recetas, logo nuevo y escenarios de playa, feria, mercado y plaza.
+- Platillos armados por capas y bebidas que se llenan en el vaso.
+
+### v2.0 · 26/11/2026
+
+**Añadido**
+- Primera versión publicada: 4 puestos, 98 recetas, 3 modos de juego, comanda guiada y actualización automática.
